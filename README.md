@@ -10,13 +10,14 @@ Project description - coming soon
 ## FOLDER: dataSets
 ### Data files 
 
-ASSOCIATION RATINGS: 
+RATINGS: 
 
 `sunMeanAssoc.csv`, `shadeMeanAssoc.csv`, `iceMeanAssoc.csv`, `fireMeanAssoc.csv`, `waterMeanAssoc.csv`: store the data from the association ratings task
 
 `noSunAssoc.csv`, `noShadeAssoc.csv`, `noFireAssoc.csv`, `noWaterAssoc.csv`, `noIceAssoc.csv`: store the data from the endpoint association ratings task for no each domain concept
 
-`lotSunAssoc.csv`, `lotShadeAssoc.csv`, `lotFireAssoc.csv`, `lotWaterAssoc.csv`, `lotIceAssoc.csv`: store the data from the endpoint association ratings task for a lot each domain concept
+`meanDarknessRatings.csv`: store the data from darkness ratings task for the color pairs from Exp. 3
+
 
 
 COLORMAP INTERPRETATIONS
@@ -26,12 +27,12 @@ COLORMAP INTERPRETATIONS
 
 ### Analyses and plotting scripts
 
-`assignInfer.R`: R script for analyses and plotting data from all 3 experiments. Takes files above as inputs.
+`assign-infer-analyses.R`: R script for analyses and plotting data from all 3 experiments. Takes files above as inputs.
 
 
 ## FOLDER: stimuli
-#subfolders for each Experiment containing the colormaps shown 
+#Subfolders for each experiment contain the colormaps showed in that experiment (10 colormaps per color scale; 5 dark on left/ 5 dark on right)
 
-`exp1colorPairs.csv`, `exp2colorPairs.csv`, `exp3colorPairs.csv`: stores the color coordinates for each color pair from each experiement
-`uw71coordinates.csv`: stores the color coordinates for the UW-71
+`exp1colorCoordinates.csv`, `exp2colorCoordinates.csv`, `exp3colorCoordinates.csv`: stores the color coordinates for each color pair from each experiment
+`UW71coordinates.csv`: stores the color coordinates for the UW-71
 
