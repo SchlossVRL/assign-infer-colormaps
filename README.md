@@ -1,6 +1,6 @@
 # Extending assignment inference to colormap data visualizations
 
-_ Melissa A. Schoenlein, Johnny Campos, Kevin J. Lande, Laurent Lessard, Karen B. Schloss_
+_Melissa A. Schoenlein, Johnny Campos, Kevin J. Lande, Laurent Lessard, Karen B. Schloss_
 
 Project description - coming soon
 
