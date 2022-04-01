@@ -13,7 +13,8 @@ Project description - coming soon
 ASSOCIATION RATINGS: 
 
 `sunMeanAssoc.csv`, `shadeMeanAssoc.csv`, `iceMeanAssoc.csv`, `fireMeanAssoc.csv`, `waterMeanAssoc.csv`: store the data from the association ratings task
-`sunEndpointMeanAssoc.csv`, `shadeEndpointMeanAssoc.csv`, `iceEndpointMeanAssoc.csv`, `fireEndpointMeanAssoc.csv`, `waterEndpointMeanAssoc.csv`: store the data from the endpoint association ratings task
+`noSunAssoc.csv`, `noShadeAssoc.csv`, `noFireAssoc.csv`, `noWaterAssoc.csv`, `noIceAssoc.csv`: store the data from the endpoint association ratings task for no each domain concept
+`lotSunAssoc.csv`, `lotShadeAssoc.csv`, `lotFireAssoc.csv`, `lotWaterAssoc.csv`, `lotIceAssoc.csv`: store the data from the endpoint association ratings task for a lot each domain concept
 
 
 COLORMAP INTERPRETATIONS
