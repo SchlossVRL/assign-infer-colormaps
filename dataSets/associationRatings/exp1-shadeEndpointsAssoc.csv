@@ -1,0 +1,1441 @@
+subjectID,trial_index,rt,response,prompt,color_rgb,color_index,Age,Gender
+0gtm10s7uk,9,3073.3,-81,a lot of shade,#777777,26,31,Male
+0gtm10s7uk,10,2135.7,-129,a lot of shade,#fba714,70,31,Male
+0gtm10s7uk,11,1340.6,-106,a lot of shade,#f7db7c,58,31,Male
+0gtm10s7uk,12,1490.2,-49,a lot of shade,#d0e942,67,31,Male
+0gtm10s7uk,13,1400.4,49,a lot of shade,#3b8378,21,31,Male
+0gtm10s7uk,14,1364.7,51,a lot of shade,#600b84,7,31,Male
+0gtm10s7uk,15,1440.2,-50,a lot of shade,#d5b811,68,31,Male
+0gtm10s7uk,16,2311,128,a lot of shade,#b9b9b9,27,31,Male
+0gtm10s7uk,17,2096.7,200,a lot of shade,#3b3b3b,25,31,Male
+0gtm10s7uk,18,1913.2,83,a lot of shade,#72005e,17,31,Male
+0gtm10s7uk,19,1961.6,-153,a lot of shade,#dddddd,29,31,Male
+0gtm10s7uk,20,2183.2,-158,a lot of shade,#0e8a19,50,31,Male
+0gtm10s7uk,22,4253.6,-70,no shade,#72005e,17,31,Male
+0gtm10s7uk,23,3540.1,-187,no shade,#b9b9b9,27,31,Male
+0gtm10s7uk,24,1526.9,-180,no shade,#dddddd,29,31,Male
+0gtm10s7uk,25,2528.4,200,no shade,#3b3b3b,25,31,Male
+0gtm10s7uk,26,1493.9,-112,no shade,#0e8a19,50,31,Male
+0gtm10s7uk,27,2341.2,-200,no shade,#d0e942,67,31,Male
+0gtm10s7uk,28,2399.4,110,no shade,#3b8378,21,31,Male
+0gtm10s7uk,29,1793.7,21,no shade,#fba714,70,31,Male
+0gtm10s7uk,30,1789.2,-143,no shade,#600b84,7,31,Male
+0gtm10s7uk,31,1524.4,-58,no shade,#f7db7c,58,31,Male
+0gtm10s7uk,32,1667.3,153,no shade,#777777,26,31,Male
+0gtm10s7uk,33,1232.5,-86,no shade,#d5b811,68,31,Male
+0gtm10s7uk,37,1945.2,-116,celery,#d0e942,67,31,Male
+0gtm10s7uk,38,2392.9,196,celery,#a3c55b,54,31,Male
+0gtm10s7uk,39,1320.3,115,celery,#9af443,65,31,Male
+0gtm10s7uk,40,2141.4,44,celery,#443b14,41,31,Male
+0gtm10s7uk,41,1466.3,-33,celery,#67cf5c,51,31,Male
+0gtm10s7uk,42,1799.3,115,celery,#96c58c,39,31,Male
+0gtm10s7uk,43,1319.9,48,celery,#c8e97d,55,31,Male
+0gtm10s7uk,44,1682.4,-126,celery,#4bcf8e,35,31,Male
+0gtm10s7uk,45,1699.5,-148,celery,#73f5b0,36,31,Male
+0gtm10s7uk,46,2013.3,-196,celery,#72005e,17,31,Male
+0gtm10s7uk,47,2007,-68,celery,#83764c,42,31,Male
+0gtm10s7uk,48,1674.7,38,celery,#aac510,66,31,Male
+0gtm10s7uk,49,1933.4,-200,celery,#600b84,7,31,Male
+0gtm10s7uk,50,1761.8,-200,celery,#b62ef2,3,31,Male
+0gtm10s7uk,51,2396.3,38,celery,#73cf10,64,31,Male
+0gtm10s7uk,52,2063.6,72,celery,#608218,53,31,Male
+0gtm10s7uk,53,2132.2,54,celery,#0e8a19,50,31,Male
+0gtm10s7uk,54,142317,-161,celery,#ea1d1d,62,31,Male
+0gtm10s7uk,55,6244.5,-199,celery,#90689f,15,31,Male
+0gtm10s7uk,56,1847.3,-200,celery,#ffffff,28,31,Male
+0gtm10s7uk,57,1571.5,-200,celery,#e81a4b,49,31,Male
+0gtm10s7uk,58,1942.4,140,celery,#184415,37,31,Male
+0gtm10s7uk,59,1225.7,110,celery,#baeaaf,40,31,Male
+0gtm10s7uk,60,1127,102,celery,#3efe44,63,31,Male
+1htvzmrc4v,9,6845.7,200,no shade,#dddddd,29,43,Fema
+1htvzmrc4v,10,5145.4,200,no shade,#d5b811,68,43,Fema
+1htvzmrc4v,11,3062.1,-99,no shade,#777777,26,43,Fema
+1htvzmrc4v,12,3032.9,-62,no shade,#72005e,17,43,Fema
+1htvzmrc4v,13,5234.6,200,no shade,#d0e942,67,43,Fema
+1htvzmrc4v,14,3733.7,-43,no shade,#b9b9b9,27,43,Fema
+1htvzmrc4v,15,3919.7,-68,no shade,#3b8378,21,43,Fema
+1htvzmrc4v,16,3200.3,163,no shade,#f7db7c,58,43,Fema
+1htvzmrc4v,17,7052.4,22,no shade,#0e8a19,50,43,Fema
+1htvzmrc4v,18,7631.6,61,no shade,#600b84,7,43,Fema
+1htvzmrc4v,19,4680.8,-200,no shade,#3b3b3b,25,43,Fema
+1htvzmrc4v,20,6198.7,12,no shade,#fba714,70,43,Fema
+1htvzmrc4v,22,7656.8,107,a lot of shade,#72005e,17,43,Fema
+1htvzmrc4v,23,3874.4,-68,a lot of shade,#fba714,70,43,Fema
+1htvzmrc4v,24,3434.2,34,a lot of shade,#777777,26,43,Fema
+1htvzmrc4v,25,3504.6,-138,a lot of shade,#dddddd,29,43,Fema
+1htvzmrc4v,26,3915.9,-61,a lot of shade,#b9b9b9,27,43,Fema
+1htvzmrc4v,27,3041.1,-23,a lot of shade,#3b8378,21,43,Fema
+1htvzmrc4v,28,3772.4,-32,a lot of shade,#600b84,7,43,Fema
+1htvzmrc4v,29,3191.5,-200,a lot of shade,#d0e942,67,43,Fema
+1htvzmrc4v,30,4636.2,-200,a lot of shade,#f7db7c,58,43,Fema
+1htvzmrc4v,31,2384.5,-143,a lot of shade,#d5b811,68,43,Fema
+1htvzmrc4v,32,3409.5,-25,a lot of shade,#0e8a19,50,43,Fema
+1htvzmrc4v,33,2651.8,152,a lot of shade,#3b3b3b,25,43,Fema
+1htvzmrc4v,37,6263.7,-200,celery,#90689f,15,43,Fema
+1htvzmrc4v,38,2436.6,103,celery,#9af443,65,43,Fema
+1htvzmrc4v,39,3055,-200,celery,#c8e97d,55,43,Fema
+1htvzmrc4v,40,2736.6,-200,celery,#b62ef2,3,43,Fema
+1htvzmrc4v,41,3528.9,-184,celery,#baeaaf,40,43,Fema
+1htvzmrc4v,42,3008.7,-200,celery,#ffffff,28,43,Fema
+1htvzmrc4v,43,5218,-200,celery,#83764c,42,43,Fema
+1htvzmrc4v,44,5324.5,-200,celery,#443b14,41,43,Fema
+1htvzmrc4v,45,3531.8,-200,celery,#600b84,7,43,Fema
+1htvzmrc4v,46,3428.7,-39,celery,#0e8a19,50,43,Fema
+1htvzmrc4v,47,3150.5,-200,celery,#d0e942,67,43,Fema
+1htvzmrc4v,48,2793.8,-200,celery,#e81a4b,49,43,Fema
+1htvzmrc4v,49,2806.2,-200,celery,#72005e,17,43,Fema
+1htvzmrc4v,50,4387.4,-35,celery,#184415,37,43,Fema
+1htvzmrc4v,51,3756.6,-200,celery,#4bcf8e,35,43,Fema
+1htvzmrc4v,52,3280.5,30,celery,#3efe44,63,43,Fema
+1htvzmrc4v,53,2707.1,-200,celery,#aac510,66,43,Fema
+1htvzmrc4v,54,3344.4,88,celery,#67cf5c,51,43,Fema
+1htvzmrc4v,55,2636.9,-200,celery,#73f5b0,36,43,Fema
+1htvzmrc4v,56,4949,-200,celery,#96c58c,39,43,Fema
+1htvzmrc4v,57,3025.5,-200,celery,#ea1d1d,62,43,Fema
+1htvzmrc4v,58,3984.4,96,celery,#608218,53,43,Fema
+1htvzmrc4v,59,3312.1,82,celery,#a3c55b,54,43,Fema
+1htvzmrc4v,60,3720.2,92,celery,#73cf10,64,43,Fema
+2x3g7udg41,9,3705.1,-89,no shade,#fba714,70,28,fema
+2x3g7udg41,10,2250.3,-117,no shade,#d5b811,68,28,fema
+2x3g7udg41,11,2630.3,-200,no shade,#dddddd,29,28,fema
+2x3g7udg41,12,3189.6,-177,no shade,#777777,26,28,fema
+2x3g7udg41,13,3054.6,-118,no shade,#f7db7c,58,28,fema
+2x3g7udg41,14,2348.8,117,no shade,#600b84,7,28,fema
+2x3g7udg41,15,2488.5,-84,no shade,#d0e942,67,28,fema
+2x3g7udg41,16,2441.8,-27,no shade,#3b3b3b,25,28,fema
+2x3g7udg41,17,2915.3,155,no shade,#0e8a19,50,28,fema
+2x3g7udg41,18,2121.1,200,no shade,#72005e,17,28,fema
+2x3g7udg41,19,2532.6,-167,no shade,#b9b9b9,27,28,fema
+2x3g7udg41,20,7363.7,34,no shade,#3b8378,21,28,fema
+2x3g7udg41,22,9615,34,a lot of shade,#d5b811,68,28,fema
+2x3g7udg41,23,2033.9,-121,a lot of shade,#d0e942,67,28,fema
+2x3g7udg41,24,2316.7,-162,a lot of shade,#777777,26,28,fema
+2x3g7udg41,25,1862.2,98,a lot of shade,#600b84,7,28,fema
+2x3g7udg41,26,1643.6,-126,a lot of shade,#dddddd,29,28,fema
+2x3g7udg41,27,1751.6,24,a lot of shade,#fba714,70,28,fema
+2x3g7udg41,28,9730.7,80,a lot of shade,#3b3b3b,25,28,fema
+2x3g7udg41,29,2383.7,124,a lot of shade,#72005e,17,28,fema
+2x3g7udg41,30,5567.3,-148,a lot of shade,#f7db7c,58,28,fema
+2x3g7udg41,31,2309.1,64,a lot of shade,#3b8378,21,28,fema
+2x3g7udg41,32,2204.6,139,a lot of shade,#0e8a19,50,28,fema
+2x3g7udg41,33,2139.8,-200,a lot of shade,#b9b9b9,27,28,fema
+2x3g7udg41,37,2702.4,21,celery,#c8e97d,55,28,fema
+2x3g7udg41,38,1757.6,-49,celery,#d0e942,67,28,fema
+2x3g7udg41,39,1751.8,-58,celery,#443b14,41,28,fema
+2x3g7udg41,40,1784.4,-147,celery,#ffffff,28,28,fema
+2x3g7udg41,41,1721.1,-200,celery,#90689f,15,28,fema
+2x3g7udg41,42,2343.1,-170,celery,#83764c,42,28,fema
+2x3g7udg41,43,2109.1,65,celery,#4bcf8e,35,28,fema
+2x3g7udg41,44,2742.8,180,celery,#3efe44,63,28,fema
+2x3g7udg41,45,2428.1,153,celery,#a3c55b,54,28,fema
+2x3g7udg41,46,2016.9,-200,celery,#ea1d1d,62,28,fema
+2x3g7udg41,47,2312.2,129,celery,#9af443,65,28,fema
+2x3g7udg41,48,1883.3,48,celery,#608218,53,28,fema
+2x3g7udg41,49,1794.1,-200,celery,#600b84,7,28,fema
+2x3g7udg41,50,1797.4,27,celery,#184415,37,28,fema
+2x3g7udg41,51,1929.5,72,celery,#0e8a19,50,28,fema
+2x3g7udg41,52,2002.6,-200,celery,#e81a4b,49,28,fema
+2x3g7udg41,53,2342.4,53,celery,#73cf10,64,28,fema
+2x3g7udg41,54,3594.1,-19,celery,#73f5b0,36,28,fema
+2x3g7udg41,55,3392.3,-200,celery,#72005e,17,28,fema
+2x3g7udg41,56,4946.7,40,celery,#baeaaf,40,28,fema
+2x3g7udg41,57,2461.1,75,celery,#67cf5c,51,28,fema
+2x3g7udg41,58,1947.4,-200,celery,#b62ef2,3,28,fema
+2x3g7udg41,59,2037.7,58,celery,#aac510,66,28,fema
+2x3g7udg41,60,1732.7,25,celery,#96c58c,39,28,fema
+51n786b02x,9,3385.3,-85,a lot of shade,#fba714,70,28,male
+51n786b02x,10,2258.6,-200,a lot of shade,#b9b9b9,27,28,male
+51n786b02x,11,2953.4,-58,a lot of shade,#3b8378,21,28,male
+51n786b02x,12,1765.6,86,a lot of shade,#600b84,7,28,male
+51n786b02x,13,2898.5,-121,a lot of shade,#d5b811,68,28,male
+51n786b02x,14,2385.8,-164,a lot of shade,#777777,26,28,male
+51n786b02x,15,3117.8,-152,a lot of shade,#0e8a19,50,28,male
+51n786b02x,16,1880.9,172,a lot of shade,#3b3b3b,25,28,male
+51n786b02x,17,2531.8,-108,a lot of shade,#f7db7c,58,28,male
+51n786b02x,18,12299,-155,a lot of shade,#dddddd,29,28,male
+51n786b02x,19,4423.2,91,a lot of shade,#72005e,17,28,male
+51n786b02x,20,2419.9,-69,a lot of shade,#d0e942,67,28,male
+51n786b02x,22,3567.8,132,no shade,#dddddd,29,28,male
+51n786b02x,23,2500.9,-160,no shade,#3b3b3b,25,28,male
+51n786b02x,24,1915.5,69,no shade,#f7db7c,58,28,male
+51n786b02x,25,2281.9,-65,no shade,#0e8a19,50,28,male
+51n786b02x,26,2318.4,15,no shade,#d5b811,68,28,male
+51n786b02x,27,8271.9,161,no shade,#b9b9b9,27,28,male
+51n786b02x,28,3027.1,-128,no shade,#72005e,17,28,male
+51n786b02x,29,2943,-87,no shade,#d0e942,67,28,male
+51n786b02x,30,3014.7,-21,no shade,#777777,26,28,male
+51n786b02x,31,5555.3,-122,no shade,#600b84,7,28,male
+51n786b02x,32,1940.1,-65,no shade,#3b8378,21,28,male
+51n786b02x,33,1780.1,-26,no shade,#fba714,70,28,male
+51n786b02x,37,1992.1,-200,celery,#72005e,17,28,male
+51n786b02x,38,2586.7,-37,celery,#baeaaf,40,28,male
+51n786b02x,39,2335.7,-175,celery,#d0e942,67,28,male
+51n786b02x,40,2193.8,-107,celery,#4bcf8e,35,28,male
+51n786b02x,41,1631.1,46,celery,#73cf10,64,28,male
+51n786b02x,42,1996.9,-153,celery,#443b14,41,28,male
+51n786b02x,43,2240.3,-75,celery,#aac510,66,28,male
+51n786b02x,44,2000.9,-200,celery,#90689f,15,28,male
+51n786b02x,45,4308.9,-200,celery,#e81a4b,49,28,male
+51n786b02x,46,1759.1,-200,celery,#ea1d1d,62,28,male
+51n786b02x,47,1922.1,90,celery,#0e8a19,50,28,male
+51n786b02x,48,1765.3,-120,celery,#83764c,42,28,male
+51n786b02x,49,3017.5,45,celery,#67cf5c,51,28,male
+51n786b02x,50,3397.4,-50,celery,#c8e97d,55,28,male
+51n786b02x,51,2205.2,66,celery,#184415,37,28,male
+51n786b02x,52,3487.8,-200,celery,#ffffff,28,28,male
+51n786b02x,53,3479,-34,celery,#96c58c,39,28,male
+51n786b02x,54,2943.7,-57,celery,#608218,53,28,male
+51n786b02x,55,2252.7,-142,celery,#73f5b0,36,28,male
+51n786b02x,56,3310.5,-83,celery,#a3c55b,54,28,male
+51n786b02x,57,1974.9,-200,celery,#b62ef2,3,28,male
+51n786b02x,58,1481.8,-200,celery,#600b84,7,28,male
+51n786b02x,59,4659.9,108,celery,#3efe44,63,28,male
+51n786b02x,60,34326,58,celery,#9af443,65,28,male
+5jgvnzs7vp,9,14006.2,100,no shade,#d5b811,68,46,Fema
+5jgvnzs7vp,10,7756.7,-113,no shade,#3b8378,21,46,Fema
+5jgvnzs7vp,11,7582.7,-200,no shade,#600b84,7,46,Fema
+5jgvnzs7vp,12,7001.9,-200,no shade,#d0e942,67,46,Fema
+5jgvnzs7vp,13,5628.8,-200,no shade,#fba714,70,46,Fema
+5jgvnzs7vp,14,7274.9,200,no shade,#b9b9b9,27,46,Fema
+5jgvnzs7vp,15,3226.6,200,no shade,#dddddd,29,46,Fema
+5jgvnzs7vp,16,3632.6,-200,no shade,#0e8a19,50,46,Fema
+5jgvnzs7vp,17,3445.8,200,no shade,#3b3b3b,25,46,Fema
+5jgvnzs7vp,18,3827.4,-200,no shade,#72005e,17,46,Fema
+5jgvnzs7vp,19,3591.2,100,no shade,#f7db7c,58,46,Fema
+5jgvnzs7vp,20,7982.5,200,no shade,#777777,26,46,Fema
+5jgvnzs7vp,22,3460.9,200,a lot of shade,#fba714,70,46,Fema
+5jgvnzs7vp,23,3883.9,-200,a lot of shade,#3b3b3b,25,46,Fema
+5jgvnzs7vp,24,5683,-200,a lot of shade,#777777,26,46,Fema
+5jgvnzs7vp,25,3280.2,200,a lot of shade,#3b8378,21,46,Fema
+5jgvnzs7vp,26,2761.3,200,a lot of shade,#600b84,7,46,Fema
+5jgvnzs7vp,27,2839.1,-200,a lot of shade,#dddddd,29,46,Fema
+5jgvnzs7vp,28,3249.4,-200,a lot of shade,#b9b9b9,27,46,Fema
+5jgvnzs7vp,29,2775.8,200,a lot of shade,#d0e942,67,46,Fema
+5jgvnzs7vp,30,3378.3,200,a lot of shade,#d5b811,68,46,Fema
+5jgvnzs7vp,31,5304.5,109,a lot of shade,#f7db7c,58,46,Fema
+5jgvnzs7vp,32,3012,135,a lot of shade,#0e8a19,50,46,Fema
+5jgvnzs7vp,33,2682.8,200,a lot of shade,#72005e,17,46,Fema
+5jgvnzs7vp,37,3613.2,200,celery,#baeaaf,40,46,Fema
+5jgvnzs7vp,38,2357.3,-200,celery,#83764c,42,46,Fema
+5jgvnzs7vp,39,2344.2,200,celery,#184415,37,46,Fema
+5jgvnzs7vp,40,2304.9,200,celery,#a3c55b,54,46,Fema
+5jgvnzs7vp,41,2447.2,190,celery,#4bcf8e,35,46,Fema
+5jgvnzs7vp,42,2208.6,200,celery,#608218,53,46,Fema
+5jgvnzs7vp,43,2189.7,-200,celery,#ea1d1d,62,46,Fema
+5jgvnzs7vp,44,2367.5,52,celery,#c8e97d,55,46,Fema
+5jgvnzs7vp,45,2336.3,-200,celery,#ffffff,28,46,Fema
+5jgvnzs7vp,46,2234.8,200,celery,#73cf10,64,46,Fema
+5jgvnzs7vp,47,2329.2,200,celery,#9af443,65,46,Fema
+5jgvnzs7vp,48,2106,-200,celery,#b62ef2,3,46,Fema
+5jgvnzs7vp,49,2239.4,200,celery,#67cf5c,51,46,Fema
+5jgvnzs7vp,50,2319.8,-200,celery,#72005e,17,46,Fema
+5jgvnzs7vp,51,2504.3,-200,celery,#aac510,66,46,Fema
+5jgvnzs7vp,52,2645.2,200,celery,#3efe44,63,46,Fema
+5jgvnzs7vp,53,2466.1,85,celery,#96c58c,39,46,Fema
+5jgvnzs7vp,54,2381.6,-200,celery,#600b84,7,46,Fema
+5jgvnzs7vp,55,2370.1,-200,celery,#d0e942,67,46,Fema
+5jgvnzs7vp,56,3013.5,200,celery,#0e8a19,50,46,Fema
+5jgvnzs7vp,57,2886.9,-200,celery,#443b14,41,46,Fema
+5jgvnzs7vp,58,2599.5,-200,celery,#e81a4b,49,46,Fema
+5jgvnzs7vp,59,2469.6,-200,celery,#90689f,15,46,Fema
+5jgvnzs7vp,60,2446.3,-200,celery,#73f5b0,36,46,Fema
+6695qukosn,9,6826.9,-194,no shade,#3b3b3b,25,40,fema
+6695qukosn,10,3289.6,184,no shade,#d5b811,68,40,fema
+6695qukosn,11,3364.9,143,no shade,#fba714,70,40,fema
+6695qukosn,12,2490.7,200,no shade,#d0e942,67,40,fema
+6695qukosn,13,2352.8,175,no shade,#f7db7c,58,40,fema
+6695qukosn,14,5222.6,27,no shade,#3b8378,21,40,fema
+6695qukosn,15,3502.8,200,no shade,#b9b9b9,27,40,fema
+6695qukosn,16,3041.6,-156,no shade,#777777,26,40,fema
+6695qukosn,17,2420.2,-15,no shade,#0e8a19,50,40,fema
+6695qukosn,18,2399.6,-18,no shade,#72005e,17,40,fema
+6695qukosn,19,2285.2,200,no shade,#dddddd,29,40,fema
+6695qukosn,20,4546.6,-45,no shade,#600b84,7,40,fema
+6695qukosn,22,3722.7,162,a lot of shade,#777777,26,40,fema
+6695qukosn,23,3154.3,22,a lot of shade,#3b8378,21,40,fema
+6695qukosn,24,3053.1,-150,a lot of shade,#d0e942,67,40,fema
+6695qukosn,25,3680.9,54,a lot of shade,#600b84,7,40,fema
+6695qukosn,26,2547.4,33,a lot of shade,#72005e,17,40,fema
+6695qukosn,27,2805.9,-143,a lot of shade,#d5b811,68,40,fema
+6695qukosn,28,1984,-104,a lot of shade,#fba714,70,40,fema
+6695qukosn,29,3018.5,-38,a lot of shade,#0e8a19,50,40,fema
+6695qukosn,30,3174.5,200,a lot of shade,#3b3b3b,25,40,fema
+6695qukosn,31,5270.4,65,a lot of shade,#b9b9b9,27,40,fema
+6695qukosn,32,3389.6,-157,a lot of shade,#dddddd,29,40,fema
+6695qukosn,33,2127.6,-195,a lot of shade,#f7db7c,58,40,fema
+6695qukosn,37,7142.7,37,celery,#ffffff,28,40,fema
+6695qukosn,38,3289.6,-200,celery,#90689f,15,40,fema
+6695qukosn,39,6301.6,8,celery,#184415,37,40,fema
+6695qukosn,40,2052.2,-184,celery,#72005e,17,40,fema
+6695qukosn,41,2490.6,34,celery,#67cf5c,51,40,fema
+6695qukosn,42,2690.2,22,celery,#73cf10,64,40,fema
+6695qukosn,43,2209.6,84,celery,#96c58c,39,40,fema
+6695qukosn,44,2307.7,61,celery,#4bcf8e,35,40,fema
+6695qukosn,45,2319.1,81,celery,#608218,53,40,fema
+6695qukosn,46,2544.1,-200,celery,#e81a4b,49,40,fema
+6695qukosn,47,2423.3,-200,celery,#600b84,7,40,fema
+6695qukosn,48,2175,-64,celery,#443b14,41,40,fema
+6695qukosn,49,4042.2,-30,celery,#73f5b0,36,40,fema
+6695qukosn,50,2016.3,25,celery,#0e8a19,50,40,fema
+6695qukosn,51,2140.4,23,celery,#aac510,66,40,fema
+6695qukosn,52,5438.6,34,celery,#9af443,65,40,fema
+6695qukosn,53,4605.4,68,celery,#a3c55b,54,40,fema
+6695qukosn,54,2848.3,59,celery,#c8e97d,55,40,fema
+6695qukosn,55,2044.3,-200,celery,#ea1d1d,62,40,fema
+6695qukosn,56,1989.2,-200,celery,#b62ef2,3,40,fema
+6695qukosn,57,2858.4,80,celery,#baeaaf,40,40,fema
+6695qukosn,58,3054,-164,celery,#83764c,42,40,fema
+6695qukosn,59,2275.3,29,celery,#3efe44,63,40,fema
+6695qukosn,60,2837.2,-42,celery,#d0e942,67,40,fema
+6upn2tslgy,9,9223.5,59,a lot of shade,#3b8378,21,23,Fema
+6upn2tslgy,10,4883.6,-200,a lot of shade,#dddddd,29,23,Fema
+6upn2tslgy,11,2138.5,200,a lot of shade,#3b3b3b,25,23,Fema
+6upn2tslgy,12,3465.7,-200,a lot of shade,#d0e942,67,23,Fema
+6upn2tslgy,13,2507.7,105,a lot of shade,#600b84,7,23,Fema
+6upn2tslgy,14,2729.6,-200,a lot of shade,#f7db7c,58,23,Fema
+6upn2tslgy,15,2568.5,150,a lot of shade,#0e8a19,50,23,Fema
+6upn2tslgy,16,2720.6,200,a lot of shade,#777777,26,23,Fema
+6upn2tslgy,17,2744.6,-200,a lot of shade,#d5b811,68,23,Fema
+6upn2tslgy,18,2244.7,46,a lot of shade,#b9b9b9,27,23,Fema
+6upn2tslgy,19,2561.6,-84,a lot of shade,#fba714,70,23,Fema
+6upn2tslgy,20,2531.6,169,a lot of shade,#72005e,17,23,Fema
+6upn2tslgy,22,3261.7,200,no shade,#fba714,70,23,Fema
+6upn2tslgy,23,3126.1,-148,no shade,#72005e,17,23,Fema
+6upn2tslgy,24,2621.1,-68,no shade,#3b8378,21,23,Fema
+6upn2tslgy,25,3081.3,-200,no shade,#3b3b3b,25,23,Fema
+6upn2tslgy,26,4109.3,22,no shade,#b9b9b9,27,23,Fema
+6upn2tslgy,27,2430.2,200,no shade,#f7db7c,58,23,Fema
+6upn2tslgy,28,3353.9,200,no shade,#dddddd,29,23,Fema
+6upn2tslgy,29,2905,-190,no shade,#d0e942,67,23,Fema
+6upn2tslgy,30,3095.6,-82,no shade,#0e8a19,50,23,Fema
+6upn2tslgy,31,2994.2,-147,no shade,#777777,26,23,Fema
+6upn2tslgy,32,2461.4,-159,no shade,#600b84,7,23,Fema
+6upn2tslgy,33,2765.2,117,no shade,#d5b811,68,23,Fema
+6upn2tslgy,37,3015.2,200,celery,#67cf5c,51,23,Fema
+6upn2tslgy,38,2491.2,27,celery,#96c58c,39,23,Fema
+6upn2tslgy,39,2126,-200,celery,#ea1d1d,62,23,Fema
+6upn2tslgy,40,3784.6,41,celery,#ffffff,28,23,Fema
+6upn2tslgy,41,2098.2,-200,celery,#72005e,17,23,Fema
+6upn2tslgy,42,1655.2,-200,celery,#90689f,15,23,Fema
+6upn2tslgy,43,5399.3,7,celery,#aac510,66,23,Fema
+6upn2tslgy,44,2633.7,198,celery,#3efe44,63,23,Fema
+6upn2tslgy,45,1992.7,-199,celery,#b62ef2,3,23,Fema
+6upn2tslgy,46,3157.7,-194,celery,#4bcf8e,35,23,Fema
+6upn2tslgy,47,2443.4,124,celery,#73cf10,64,23,Fema
+6upn2tslgy,48,2759.3,200,celery,#0e8a19,50,23,Fema
+6upn2tslgy,49,2175.8,113,celery,#608218,53,23,Fema
+6upn2tslgy,50,2726,21,celery,#443b14,41,23,Fema
+6upn2tslgy,51,1992.8,-200,celery,#600b84,7,23,Fema
+6upn2tslgy,52,3187.8,199,celery,#9af443,65,23,Fema
+6upn2tslgy,53,2452.9,-17,celery,#73f5b0,36,23,Fema
+6upn2tslgy,54,3907.2,21,celery,#83764c,42,23,Fema
+6upn2tslgy,55,2113.3,-200,celery,#e81a4b,49,23,Fema
+6upn2tslgy,56,2069.1,16,celery,#baeaaf,40,23,Fema
+6upn2tslgy,57,2604.5,115,celery,#184415,37,23,Fema
+6upn2tslgy,58,2220.7,135,celery,#a3c55b,54,23,Fema
+6upn2tslgy,59,2191.3,77,celery,#c8e97d,55,23,Fema
+6upn2tslgy,60,3102.8,11,celery,#d0e942,67,23,Fema
+7mocanqdeq,9,3734,-200,a lot of shade,#dddddd,29,22,male
+7mocanqdeq,10,3842.1,63,a lot of shade,#3b8378,21,22,male
+7mocanqdeq,11,2279.1,107,a lot of shade,#600b84,7,22,male
+7mocanqdeq,12,2243.6,-95,a lot of shade,#f7db7c,58,22,male
+7mocanqdeq,13,1928.9,-75,a lot of shade,#d5b811,68,22,male
+7mocanqdeq,14,3410.8,66,a lot of shade,#777777,26,22,male
+7mocanqdeq,15,2142.2,142,a lot of shade,#3b3b3b,25,22,male
+7mocanqdeq,16,4005.3,-53,a lot of shade,#0e8a19,50,22,male
+7mocanqdeq,17,3675.2,-46,a lot of shade,#b9b9b9,27,22,male
+7mocanqdeq,18,2482,-77,a lot of shade,#fba714,70,22,male
+7mocanqdeq,19,1382.6,43,a lot of shade,#72005e,17,22,male
+7mocanqdeq,20,2694.1,-61,a lot of shade,#d0e942,67,22,male
+7mocanqdeq,22,3409.4,-183,no shade,#3b8378,21,22,male
+7mocanqdeq,23,2185.3,-76,no shade,#b9b9b9,27,22,male
+7mocanqdeq,24,4837.6,89,no shade,#fba714,70,22,male
+7mocanqdeq,25,3898.4,101,no shade,#d0e942,67,22,male
+7mocanqdeq,26,3655.9,-124,no shade,#72005e,17,22,male
+7mocanqdeq,27,2372.5,21,no shade,#d5b811,68,22,male
+7mocanqdeq,28,5585.8,60,no shade,#dddddd,29,22,male
+7mocanqdeq,29,2605.5,-81,no shade,#3b3b3b,25,22,male
+7mocanqdeq,30,5155.2,-40,no shade,#777777,26,22,male
+7mocanqdeq,31,5846.1,29,no shade,#0e8a19,50,22,male
+7mocanqdeq,32,5927.8,-42,no shade,#600b84,7,22,male
+7mocanqdeq,33,3777.8,136,no shade,#f7db7c,58,22,male
+7mocanqdeq,37,3240.7,-200,celery,#600b84,7,22,male
+7mocanqdeq,38,2605.6,143,celery,#0e8a19,50,22,male
+7mocanqdeq,39,2109.2,45,celery,#aac510,66,22,male
+7mocanqdeq,40,1866.8,96,celery,#67cf5c,51,22,male
+7mocanqdeq,41,3109.1,-182,celery,#ffffff,28,22,male
+7mocanqdeq,42,3927.5,-198,celery,#e81a4b,49,22,male
+7mocanqdeq,43,2446.1,16,celery,#c8e97d,55,22,male
+7mocanqdeq,44,1748.7,-200,celery,#b62ef2,3,22,male
+7mocanqdeq,45,1680.2,-200,celery,#72005e,17,22,male
+7mocanqdeq,46,4639.4,89,celery,#9af443,65,22,male
+7mocanqdeq,47,3273.8,27,celery,#a3c55b,54,22,male
+7mocanqdeq,48,3921.2,-125,celery,#4bcf8e,35,22,male
+7mocanqdeq,49,2757.2,-49,celery,#d0e942,67,22,male
+7mocanqdeq,50,2235.3,18,celery,#608218,53,22,male
+7mocanqdeq,51,3102.1,-69,celery,#184415,37,22,male
+7mocanqdeq,52,3860.4,-2,celery,#96c58c,39,22,male
+7mocanqdeq,53,2977.7,-132,celery,#baeaaf,40,22,male
+7mocanqdeq,54,2091.8,-200,celery,#ea1d1d,62,22,male
+7mocanqdeq,55,2844.9,130,celery,#3efe44,63,22,male
+7mocanqdeq,56,3708.4,-200,celery,#90689f,15,22,male
+7mocanqdeq,57,3817.5,-107,celery,#73f5b0,36,22,male
+7mocanqdeq,58,3463.8,-200,celery,#83764c,42,22,male
+7mocanqdeq,59,1534.4,-200,celery,#443b14,41,22,male
+7mocanqdeq,60,3578,39,celery,#73cf10,64,22,male
+842n3g9q94,9,3908,-74,a lot of shade,#dddddd,29,44,male
+842n3g9q94,10,2717,-121,a lot of shade,#3b8378,21,44,male
+842n3g9q94,11,3456,-71,a lot of shade,#777777,26,44,male
+842n3g9q94,12,3808,171,a lot of shade,#3b3b3b,25,44,male
+842n3g9q94,13,2422,-37,a lot of shade,#600b84,7,44,male
+842n3g9q94,14,2919,-180,a lot of shade,#d0e942,67,44,male
+842n3g9q94,15,3191,-145,a lot of shade,#fba714,70,44,male
+842n3g9q94,16,2053,-81,a lot of shade,#d5b811,68,44,male
+842n3g9q94,17,2951,-86,a lot of shade,#0e8a19,50,44,male
+842n3g9q94,18,2326,-24,a lot of shade,#b9b9b9,27,44,male
+842n3g9q94,19,2614,-200,a lot of shade,#f7db7c,58,44,male
+842n3g9q94,20,2623,-24,a lot of shade,#72005e,17,44,male
+842n3g9q94,22,3805,-21,no shade,#777777,26,44,male
+842n3g9q94,23,2599,-200,no shade,#d5b811,68,44,male
+842n3g9q94,24,2135,-200,no shade,#fba714,70,44,male
+842n3g9q94,25,2318,-64,no shade,#3b8378,21,44,male
+842n3g9q94,26,2639,-200,no shade,#dddddd,29,44,male
+842n3g9q94,27,2999,-55,no shade,#b9b9b9,27,44,male
+842n3g9q94,28,2238,-200,no shade,#f7db7c,58,44,male
+842n3g9q94,29,2312,-200,no shade,#d0e942,67,44,male
+842n3g9q94,30,2913,-80,no shade,#72005e,17,44,male
+842n3g9q94,31,4434,14,no shade,#3b3b3b,25,44,male
+842n3g9q94,32,2671,-14,no shade,#600b84,7,44,male
+842n3g9q94,33,3942,-52,no shade,#0e8a19,50,44,male
+842n3g9q94,37,3813,22,celery,#baeaaf,40,44,male
+842n3g9q94,38,2671,68,celery,#9af443,65,44,male
+842n3g9q94,39,3255,47,celery,#0e8a19,50,44,male
+842n3g9q94,40,4588,-200,celery,#83764c,42,44,male
+842n3g9q94,41,2457,134,celery,#3efe44,63,44,male
+842n3g9q94,42,4152,-16,celery,#184415,37,44,male
+842n3g9q94,43,2485,-68,celery,#73f5b0,36,44,male
+842n3g9q94,44,2093,-200,celery,#e81a4b,49,44,male
+842n3g9q94,45,3458,53,celery,#73cf10,64,44,male
+842n3g9q94,46,4891,-154,celery,#d0e942,67,44,male
+842n3g9q94,47,2296,-200,celery,#443b14,41,44,male
+842n3g9q94,48,3897,-27,celery,#4bcf8e,35,44,male
+842n3g9q94,49,2198,-200,celery,#ffffff,28,44,male
+842n3g9q94,50,2126,-200,celery,#b62ef2,3,44,male
+842n3g9q94,51,2135,-200,celery,#600b84,7,44,male
+842n3g9q94,52,3006,-200,celery,#90689f,15,44,male
+842n3g9q94,53,3914,20,celery,#608218,53,44,male
+842n3g9q94,54,2462,4,celery,#96c58c,39,44,male
+842n3g9q94,55,2037,-200,celery,#ea1d1d,62,44,male
+842n3g9q94,56,3536,57,celery,#67cf5c,51,44,male
+842n3g9q94,57,5140,-48,celery,#aac510,66,44,male
+842n3g9q94,58,2445,-5,celery,#c8e97d,55,44,male
+842n3g9q94,59,1957,-16,celery,#a3c55b,54,44,male
+842n3g9q94,60,2133,-200,celery,#72005e,17,44,male
+c1t54wv3nz,9,9943.2,44,no shade,#b9b9b9,27,46,male
+c1t54wv3nz,10,5519.8,-86,no shade,#3b3b3b,25,46,male
+c1t54wv3nz,11,5631.2,120,no shade,#dddddd,29,46,male
+c1t54wv3nz,12,5502.8,-60,no shade,#0e8a19,50,46,male
+c1t54wv3nz,13,3517.7,120,no shade,#fba714,70,46,male
+c1t54wv3nz,14,2685.9,154,no shade,#f7db7c,58,46,male
+c1t54wv3nz,15,2242.9,-55,no shade,#d0e942,67,46,male
+c1t54wv3nz,16,2186.7,85,no shade,#d5b811,68,46,male
+c1t54wv3nz,17,2091.8,-75,no shade,#72005e,17,46,male
+c1t54wv3nz,18,2933.1,-131,no shade,#777777,26,46,male
+c1t54wv3nz,19,2277.3,-129,no shade,#3b8378,21,46,male
+c1t54wv3nz,20,3532.6,-27,no shade,#600b84,7,46,male
+c1t54wv3nz,22,3303.2,144,a lot of shade,#3b3b3b,25,46,male
+c1t54wv3nz,23,1999.4,35,a lot of shade,#777777,26,46,male
+c1t54wv3nz,24,2627.1,56,a lot of shade,#600b84,7,46,male
+c1t54wv3nz,25,1955.3,-65,a lot of shade,#f7db7c,58,46,male
+c1t54wv3nz,26,1752.5,15,a lot of shade,#b9b9b9,27,46,male
+c1t54wv3nz,27,4188.1,-48,a lot of shade,#d0e942,67,46,male
+c1t54wv3nz,28,2136.8,-80,a lot of shade,#fba714,70,46,male
+c1t54wv3nz,29,2041.1,34,a lot of shade,#3b8378,21,46,male
+c1t54wv3nz,30,2225.3,97,a lot of shade,#0e8a19,50,46,male
+c1t54wv3nz,31,1730,73,a lot of shade,#72005e,17,46,male
+c1t54wv3nz,32,4273.3,-114,a lot of shade,#dddddd,29,46,male
+c1t54wv3nz,33,1841.6,-118,a lot of shade,#d5b811,68,46,male
+c1t54wv3nz,37,3551.2,25,celery,#4bcf8e,35,46,male
+c1t54wv3nz,38,2543.5,-173,celery,#ea1d1d,62,46,male
+c1t54wv3nz,39,2300.8,171,celery,#0e8a19,50,46,male
+c1t54wv3nz,40,2074.8,95,celery,#83764c,42,46,male
+c1t54wv3nz,41,3748.1,172,celery,#67cf5c,51,46,male
+c1t54wv3nz,42,1757.1,65,celery,#baeaaf,40,46,male
+c1t54wv3nz,43,2983,18,celery,#aac510,66,46,male
+c1t54wv3nz,44,2068.2,-167,celery,#ffffff,28,46,male
+c1t54wv3nz,45,2634,-188,celery,#e81a4b,49,46,male
+c1t54wv3nz,46,1961.3,-180,celery,#b62ef2,3,46,male
+c1t54wv3nz,47,2551.2,137,celery,#184415,37,46,male
+c1t54wv3nz,48,1738.5,-136,celery,#72005e,17,46,male
+c1t54wv3nz,49,2018.6,9,celery,#d0e942,67,46,male
+c1t54wv3nz,50,2997,51,celery,#a3c55b,54,46,male
+c1t54wv3nz,51,2290.9,26,celery,#73f5b0,36,46,male
+c1t54wv3nz,52,2173.7,89,celery,#9af443,65,46,male
+c1t54wv3nz,53,1839.7,-96,celery,#90689f,15,46,male
+c1t54wv3nz,54,2275.2,-5,celery,#608218,53,46,male
+c1t54wv3nz,55,2568.8,5,celery,#c8e97d,55,46,male
+c1t54wv3nz,56,1845.8,-101,celery,#443b14,41,46,male
+c1t54wv3nz,57,1920.6,120,celery,#3efe44,63,46,male
+c1t54wv3nz,58,1803.7,33,celery,#96c58c,39,46,male
+c1t54wv3nz,59,3139.2,139,celery,#73cf10,64,46,male
+c1t54wv3nz,60,1753.8,-100,celery,#600b84,7,46,male
+dwobrokssc,9,5378.1,116,no shade,#777777,26,44,fema
+dwobrokssc,10,3034.6,72,no shade,#dddddd,29,44,fema
+dwobrokssc,11,3604.6,54,no shade,#b9b9b9,27,44,fema
+dwobrokssc,12,3736.7,-159,no shade,#d5b811,68,44,fema
+dwobrokssc,13,2925.8,-98,no shade,#3b3b3b,25,44,fema
+dwobrokssc,14,3281.1,-23,no shade,#f7db7c,58,44,fema
+dwobrokssc,15,4566.7,-99,no shade,#d0e942,67,44,fema
+dwobrokssc,16,2950.5,-182,no shade,#fba714,70,44,fema
+dwobrokssc,17,2050.2,-200,no shade,#600b84,7,44,fema
+dwobrokssc,18,2942.5,-200,no shade,#0e8a19,50,44,fema
+dwobrokssc,19,4105,-95,no shade,#3b8378,21,44,fema
+dwobrokssc,20,3130.6,-200,no shade,#72005e,17,44,fema
+dwobrokssc,22,4024.3,81,a lot of shade,#d0e942,67,44,fema
+dwobrokssc,23,2256,53,a lot of shade,#3b3b3b,25,44,fema
+dwobrokssc,24,2559.4,19,a lot of shade,#f7db7c,58,44,fema
+dwobrokssc,25,2562.9,175,a lot of shade,#fba714,70,44,fema
+dwobrokssc,26,2947.2,173,a lot of shade,#d5b811,68,44,fema
+dwobrokssc,27,2946.7,15,a lot of shade,#777777,26,44,fema
+dwobrokssc,28,3513.3,200,a lot of shade,#600b84,7,44,fema
+dwobrokssc,29,3311.7,-17,a lot of shade,#dddddd,29,44,fema
+dwobrokssc,30,2193.6,200,a lot of shade,#72005e,17,44,fema
+dwobrokssc,31,3317.2,22,a lot of shade,#3b8378,21,44,fema
+dwobrokssc,32,2658.2,-31,a lot of shade,#b9b9b9,27,44,fema
+dwobrokssc,33,3587.6,178,a lot of shade,#0e8a19,50,44,fema
+dwobrokssc,37,2345,-200,celery,#600b84,7,44,fema
+dwobrokssc,38,2130,27,celery,#3efe44,63,44,fema
+dwobrokssc,39,1977.6,-200,celery,#ffffff,28,44,fema
+dwobrokssc,40,2994.6,-200,celery,#c8e97d,55,44,fema
+dwobrokssc,41,2127.8,-200,celery,#83764c,42,44,fema
+dwobrokssc,42,1848.4,-200,celery,#90689f,15,44,fema
+dwobrokssc,43,3688.6,17,celery,#baeaaf,40,44,fema
+dwobrokssc,44,2206.7,-200,celery,#ea1d1d,62,44,fema
+dwobrokssc,45,2221,-200,celery,#e81a4b,49,44,fema
+dwobrokssc,46,2550.3,17,celery,#d0e942,67,44,fema
+dwobrokssc,47,2529.1,30,celery,#443b14,41,44,fema
+dwobrokssc,48,4595.7,178,celery,#0e8a19,50,44,fema
+dwobrokssc,49,2851.5,191,celery,#608218,53,44,fema
+dwobrokssc,50,2376.1,126,celery,#aac510,66,44,fema
+dwobrokssc,51,2110.3,51,celery,#a3c55b,54,44,fema
+dwobrokssc,52,2190.6,-200,celery,#72005e,17,44,fema
+dwobrokssc,53,2452.6,-17,celery,#4bcf8e,35,44,fema
+dwobrokssc,54,2610.1,56,celery,#67cf5c,51,44,fema
+dwobrokssc,55,2615.9,54,celery,#9af443,65,44,fema
+dwobrokssc,56,1978.4,-200,celery,#b62ef2,3,44,fema
+dwobrokssc,57,2850.9,17,celery,#96c58c,39,44,fema
+dwobrokssc,58,2687.7,63,celery,#73cf10,64,44,fema
+dwobrokssc,59,2923.1,29,celery,#73f5b0,36,44,fema
+dwobrokssc,60,3054.1,183,celery,#184415,37,44,fema
+ewmpkjbrq8,9,3296.6,-128,no shade,#3b3b3b,25,32,male
+ewmpkjbrq8,10,2637.7,-148,no shade,#dddddd,29,32,male
+ewmpkjbrq8,11,1370.7,58,no shade,#72005e,17,32,male
+ewmpkjbrq8,12,1340.4,100,no shade,#d5b811,68,32,male
+ewmpkjbrq8,13,1178.4,119,no shade,#fba714,70,32,male
+ewmpkjbrq8,14,1313.5,55,no shade,#3b8378,21,32,male
+ewmpkjbrq8,15,4040.1,154,no shade,#600b84,7,32,male
+ewmpkjbrq8,16,1893.4,51,no shade,#f7db7c,58,32,male
+ewmpkjbrq8,17,2373.8,34,no shade,#d0e942,67,32,male
+ewmpkjbrq8,18,1380.6,-135,no shade,#777777,26,32,male
+ewmpkjbrq8,19,2562,58,no shade,#0e8a19,50,32,male
+ewmpkjbrq8,20,8772,-72,no shade,#b9b9b9,27,32,male
+ewmpkjbrq8,22,2140.1,-101,a lot of shade,#600b84,7,32,male
+ewmpkjbrq8,23,1558.2,89,a lot of shade,#3b3b3b,25,32,male
+ewmpkjbrq8,24,1739.6,-68,a lot of shade,#d5b811,68,32,male
+ewmpkjbrq8,25,1287.9,118,a lot of shade,#b9b9b9,27,32,male
+ewmpkjbrq8,26,11397.5,-109,a lot of shade,#f7db7c,58,32,male
+ewmpkjbrq8,27,1873.7,-87,a lot of shade,#d0e942,67,32,male
+ewmpkjbrq8,28,4501.1,-70,a lot of shade,#dddddd,29,32,male
+ewmpkjbrq8,29,6502.6,-37,a lot of shade,#fba714,70,32,male
+ewmpkjbrq8,30,2618.8,71,a lot of shade,#777777,26,32,male
+ewmpkjbrq8,31,1302.9,-106,a lot of shade,#0e8a19,50,32,male
+ewmpkjbrq8,32,1851.7,-102,a lot of shade,#3b8378,21,32,male
+ewmpkjbrq8,33,1936.1,-105,a lot of shade,#72005e,17,32,male
+ewmpkjbrq8,37,2189,86,celery,#baeaaf,40,32,male
+ewmpkjbrq8,38,1655.4,165,celery,#73cf10,64,32,male
+ewmpkjbrq8,39,1615.2,93,celery,#184415,37,32,male
+ewmpkjbrq8,40,1199.3,49,celery,#96c58c,39,32,male
+ewmpkjbrq8,41,1836.8,-197,celery,#b62ef2,3,32,male
+ewmpkjbrq8,42,1699.2,140,celery,#67cf5c,51,32,male
+ewmpkjbrq8,43,1672.4,-200,celery,#ffffff,28,32,male
+ewmpkjbrq8,44,1264.4,113,celery,#3efe44,63,32,male
+ewmpkjbrq8,45,1398.5,41,celery,#4bcf8e,35,32,male
+ewmpkjbrq8,46,1528.6,-37,celery,#d0e942,67,32,male
+ewmpkjbrq8,47,2234.2,128,celery,#0e8a19,50,32,male
+ewmpkjbrq8,48,2644.9,-200,celery,#600b84,7,32,male
+ewmpkjbrq8,49,1715,8,celery,#a3c55b,54,32,male
+ewmpkjbrq8,50,1532.1,-193,celery,#72005e,17,32,male
+ewmpkjbrq8,51,1671.9,-148,celery,#90689f,15,32,male
+ewmpkjbrq8,52,1188.2,-64,celery,#443b14,41,32,male
+ewmpkjbrq8,53,1251.3,96,celery,#9af443,65,32,male
+ewmpkjbrq8,54,1699,24,celery,#73f5b0,36,32,male
+ewmpkjbrq8,55,1707.1,-200,celery,#ea1d1d,62,32,male
+ewmpkjbrq8,56,1794,-42,celery,#aac510,66,32,male
+ewmpkjbrq8,57,1096,-35,celery,#c8e97d,55,32,male
+ewmpkjbrq8,58,1245.8,23,celery,#608218,53,32,male
+ewmpkjbrq8,59,1997.5,-200,celery,#83764c,42,32,male
+ewmpkjbrq8,60,1525.1,-200,celery,#e81a4b,49,32,male
+fdrfgjpzfh,9,6995.5,153,no shade,#777777,26,37,Fema
+fdrfgjpzfh,10,3392.4,192,no shade,#b9b9b9,27,37,Fema
+fdrfgjpzfh,11,2572.9,-183,no shade,#0e8a19,50,37,Fema
+fdrfgjpzfh,12,2738.5,30,no shade,#d5b811,68,37,Fema
+fdrfgjpzfh,13,2721,135,no shade,#f7db7c,58,37,Fema
+fdrfgjpzfh,14,3376.7,-68,no shade,#d0e942,67,37,Fema
+fdrfgjpzfh,15,2401.7,-183,no shade,#72005e,17,37,Fema
+fdrfgjpzfh,16,3053.5,-186,no shade,#600b84,7,37,Fema
+fdrfgjpzfh,17,4077.8,-117,no shade,#3b3b3b,25,37,Fema
+fdrfgjpzfh,18,3205.5,-63,no shade,#3b8378,21,37,Fema
+fdrfgjpzfh,19,1785.8,200,no shade,#dddddd,29,37,Fema
+fdrfgjpzfh,20,2399.5,-200,no shade,#fba714,70,37,Fema
+fdrfgjpzfh,22,2294.9,200,a lot of shade,#72005e,17,37,Fema
+fdrfgjpzfh,23,1927.5,200,a lot of shade,#0e8a19,50,37,Fema
+fdrfgjpzfh,24,1804.5,104,a lot of shade,#fba714,70,37,Fema
+fdrfgjpzfh,25,2800.4,41,a lot of shade,#3b8378,21,37,Fema
+fdrfgjpzfh,26,1635.8,-200,a lot of shade,#dddddd,29,37,Fema
+fdrfgjpzfh,27,2334.6,-162,a lot of shade,#f7db7c,58,37,Fema
+fdrfgjpzfh,28,3261,87,a lot of shade,#d5b811,68,37,Fema
+fdrfgjpzfh,29,2337.2,-164,a lot of shade,#b9b9b9,27,37,Fema
+fdrfgjpzfh,30,4158.4,64,a lot of shade,#3b3b3b,25,37,Fema
+fdrfgjpzfh,31,1898.6,200,a lot of shade,#600b84,7,37,Fema
+fdrfgjpzfh,32,2686.7,-26,a lot of shade,#777777,26,37,Fema
+fdrfgjpzfh,33,2128.4,32,a lot of shade,#d0e942,67,37,Fema
+fdrfgjpzfh,37,2855.7,109,celery,#d0e942,67,37,Fema
+fdrfgjpzfh,38,4667,26,celery,#0e8a19,50,37,Fema
+fdrfgjpzfh,39,1757.7,-200,celery,#72005e,17,37,Fema
+fdrfgjpzfh,40,1625.5,-200,celery,#90689f,15,37,Fema
+fdrfgjpzfh,41,1929.2,54,celery,#184415,37,37,Fema
+fdrfgjpzfh,42,2390.9,-141,celery,#443b14,41,37,Fema
+fdrfgjpzfh,43,1686.7,-200,celery,#83764c,42,37,Fema
+fdrfgjpzfh,44,1821.6,-200,celery,#4bcf8e,35,37,Fema
+fdrfgjpzfh,45,2013.2,-195,celery,#73f5b0,36,37,Fema
+fdrfgjpzfh,46,2904.1,116,celery,#608218,53,37,Fema
+fdrfgjpzfh,47,2318.9,154,celery,#baeaaf,40,37,Fema
+fdrfgjpzfh,48,1915.5,-200,celery,#600b84,7,37,Fema
+fdrfgjpzfh,49,3065.8,99,celery,#96c58c,39,37,Fema
+fdrfgjpzfh,50,2235.5,-200,celery,#ffffff,28,37,Fema
+fdrfgjpzfh,51,2058.3,159,celery,#73cf10,64,37,Fema
+fdrfgjpzfh,52,2169.7,189,celery,#9af443,65,37,Fema
+fdrfgjpzfh,53,2897.5,-200,celery,#ea1d1d,62,37,Fema
+fdrfgjpzfh,54,1832.8,31,celery,#3efe44,63,37,Fema
+fdrfgjpzfh,55,1687.1,200,celery,#c8e97d,55,37,Fema
+fdrfgjpzfh,56,1853.4,200,celery,#a3c55b,54,37,Fema
+fdrfgjpzfh,57,2381.8,88,celery,#67cf5c,51,37,Fema
+fdrfgjpzfh,58,2182,170,celery,#aac510,66,37,Fema
+fdrfgjpzfh,59,2112.1,-200,celery,#e81a4b,49,37,Fema
+fdrfgjpzfh,60,1788.2,-200,celery,#b62ef2,3,37,Fema
+h2ockz1l3t,9,4679.2,167,a lot of shade,#72005e,17,25,Male
+h2ockz1l3t,10,1891.9,-200,a lot of shade,#dddddd,29,25,Male
+h2ockz1l3t,11,2051.4,-172,a lot of shade,#b9b9b9,27,25,Male
+h2ockz1l3t,12,3524.2,-15,a lot of shade,#3b3b3b,25,25,Male
+h2ockz1l3t,13,2555.3,140,a lot of shade,#fba714,70,25,Male
+h2ockz1l3t,14,2571.5,-9,a lot of shade,#f7db7c,58,25,Male
+h2ockz1l3t,15,1623.1,23,a lot of shade,#d0e942,67,25,Male
+h2ockz1l3t,16,1738.1,148,a lot of shade,#600b84,7,25,Male
+h2ockz1l3t,17,2220,96,a lot of shade,#0e8a19,50,25,Male
+h2ockz1l3t,18,1919.8,-125,a lot of shade,#777777,26,25,Male
+h2ockz1l3t,19,1273.5,62,a lot of shade,#d5b811,68,25,Male
+h2ockz1l3t,20,2197.2,-9,a lot of shade,#3b8378,21,25,Male
+h2ockz1l3t,22,3230.3,-187,no shade,#72005e,17,25,Male
+h2ockz1l3t,23,2031.3,176,no shade,#777777,26,25,Male
+h2ockz1l3t,24,1817.6,102,no shade,#3b3b3b,25,25,Male
+h2ockz1l3t,25,1447.4,-60,no shade,#d0e942,67,25,Male
+h2ockz1l3t,26,1224.6,-101,no shade,#0e8a19,50,25,Male
+h2ockz1l3t,27,2264.5,-83,no shade,#d5b811,68,25,Male
+h2ockz1l3t,28,1311.2,-47,no shade,#f7db7c,58,25,Male
+h2ockz1l3t,29,1604.6,143,no shade,#b9b9b9,27,25,Male
+h2ockz1l3t,30,1635.5,178,no shade,#dddddd,29,25,Male
+h2ockz1l3t,31,2065.1,-131,no shade,#fba714,70,25,Male
+h2ockz1l3t,32,1296.2,-36,no shade,#3b8378,21,25,Male
+h2ockz1l3t,33,1493.7,-110,no shade,#600b84,7,25,Male
+h2ockz1l3t,37,1985,-200,celery,#90689f,15,25,Male
+h2ockz1l3t,38,1531.2,200,celery,#67cf5c,51,25,Male
+h2ockz1l3t,39,1862.3,51,celery,#d0e942,67,25,Male
+h2ockz1l3t,40,2559.6,-200,celery,#ea1d1d,62,25,Male
+h2ockz1l3t,41,1722,-200,celery,#e81a4b,49,25,Male
+h2ockz1l3t,42,1273.7,200,celery,#0e8a19,50,25,Male
+h2ockz1l3t,43,1722.8,164,celery,#73cf10,64,25,Male
+h2ockz1l3t,44,1519.8,67,celery,#96c58c,39,25,Male
+h2ockz1l3t,45,1171.5,19,celery,#4bcf8e,35,25,Male
+h2ockz1l3t,46,1673,-200,celery,#443b14,41,25,Male
+h2ockz1l3t,47,1336.1,-200,celery,#ffffff,28,25,Male
+h2ockz1l3t,48,1170.4,-200,celery,#600b84,7,25,Male
+h2ockz1l3t,49,2198.7,78,celery,#3efe44,63,25,Male
+h2ockz1l3t,50,1506.4,-192,celery,#72005e,17,25,Male
+h2ockz1l3t,51,1611.9,44,celery,#aac510,66,25,Male
+h2ockz1l3t,52,1285.6,51,celery,#608218,53,25,Male
+h2ockz1l3t,53,1463.6,-10,celery,#baeaaf,40,25,Male
+h2ockz1l3t,54,1794.6,-30,celery,#c8e97d,55,25,Male
+h2ockz1l3t,55,1368.8,35,celery,#9af443,65,25,Male
+h2ockz1l3t,56,1263.7,-200,celery,#b62ef2,3,25,Male
+h2ockz1l3t,57,2819.6,23,celery,#a3c55b,54,25,Male
+h2ockz1l3t,58,1589.6,135,celery,#184415,37,25,Male
+h2ockz1l3t,59,2232.5,-54,celery,#73f5b0,36,25,Male
+h2ockz1l3t,60,2311.3,-117,celery,#83764c,42,25,Male
+h8jj704ymd,9,1873.4,200,a lot of shade,#d0e942,67,33,Male
+h8jj704ymd,10,2210.3,99,a lot of shade,#d5b811,68,33,Male
+h8jj704ymd,11,1567.4,79,a lot of shade,#fba714,70,33,Male
+h8jj704ymd,12,2249.3,-1,a lot of shade,#600b84,7,33,Male
+h8jj704ymd,13,1750.8,94,a lot of shade,#f7db7c,58,33,Male
+h8jj704ymd,14,2886.1,-200,a lot of shade,#dddddd,29,33,Male
+h8jj704ymd,15,3906.2,-200,a lot of shade,#777777,26,33,Male
+h8jj704ymd,16,3094.4,60,a lot of shade,#72005e,17,33,Male
+h8jj704ymd,17,2019.8,75,a lot of shade,#3b8378,21,33,Male
+h8jj704ymd,18,1366,-200,a lot of shade,#b9b9b9,27,33,Male
+h8jj704ymd,19,1455,56,a lot of shade,#0e8a19,50,33,Male
+h8jj704ymd,20,1305,-200,a lot of shade,#3b3b3b,25,33,Male
+h8jj704ymd,22,3162,-200,no shade,#3b8378,21,33,Male
+h8jj704ymd,23,1400.2,-200,no shade,#0e8a19,50,33,Male
+h8jj704ymd,24,1212.9,200,no shade,#777777,26,33,Male
+h8jj704ymd,25,1145,-200,no shade,#72005e,17,33,Male
+h8jj704ymd,26,1195.9,200,no shade,#dddddd,29,33,Male
+h8jj704ymd,27,1479,-200,no shade,#f7db7c,58,33,Male
+h8jj704ymd,28,1036.4,-200,no shade,#d5b811,68,33,Male
+h8jj704ymd,29,1093.7,200,no shade,#3b3b3b,25,33,Male
+h8jj704ymd,30,1240.7,-200,no shade,#d0e942,67,33,Male
+h8jj704ymd,31,1053.9,-160,no shade,#fba714,70,33,Male
+h8jj704ymd,32,1370.3,200,no shade,#b9b9b9,27,33,Male
+h8jj704ymd,33,1392.8,-200,no shade,#600b84,7,33,Male
+h8jj704ymd,37,1603.3,-200,celery,#b62ef2,3,33,Male
+h8jj704ymd,38,1940,-200,celery,#90689f,15,33,Male
+h8jj704ymd,39,1971.7,200,celery,#73cf10,64,33,Male
+h8jj704ymd,40,1005.9,-200,celery,#e81a4b,49,33,Male
+h8jj704ymd,41,1092.4,-200,celery,#ea1d1d,62,33,Male
+h8jj704ymd,42,1592.7,81,celery,#c8e97d,55,33,Male
+h8jj704ymd,43,1231.8,89,celery,#aac510,66,33,Male
+h8jj704ymd,44,4144.3,116,celery,#608218,53,33,Male
+h8jj704ymd,45,1132,-200,celery,#600b84,7,33,Male
+h8jj704ymd,46,1180.7,-200,celery,#4bcf8e,35,33,Male
+h8jj704ymd,47,1092.2,-200,celery,#83764c,42,33,Male
+h8jj704ymd,48,2064.2,10,celery,#184415,37,33,Male
+h8jj704ymd,49,1322,59,celery,#a3c55b,54,33,Male
+h8jj704ymd,50,2108.4,-24,celery,#d0e942,67,33,Male
+h8jj704ymd,51,2474.5,-56,celery,#0e8a19,50,33,Male
+h8jj704ymd,52,1136.2,-200,celery,#443b14,41,33,Male
+h8jj704ymd,53,1187.7,-200,celery,#73f5b0,36,33,Male
+h8jj704ymd,54,1396.7,9,celery,#67cf5c,51,33,Male
+h8jj704ymd,55,2590.4,-12,celery,#96c58c,39,33,Male
+h8jj704ymd,56,1356.6,16,celery,#9af443,65,33,Male
+h8jj704ymd,57,1084.7,-200,celery,#72005e,17,33,Male
+h8jj704ymd,58,1253.6,-25,celery,#baeaaf,40,33,Male
+h8jj704ymd,59,1094.3,-200,celery,#ffffff,28,33,Male
+h8jj704ymd,60,1324.3,35,celery,#3efe44,63,33,Male
+h8u6305l7x,9,6307,44,no shade,#0e8a19,50,75,male
+h8u6305l7x,10,4398,200,no shade,#b9b9b9,27,75,male
+h8u6305l7x,11,4894,-71,no shade,#72005e,17,75,male
+h8u6305l7x,12,2889,-18,no shade,#fba714,70,75,male
+h8u6305l7x,13,4073,38,no shade,#777777,26,75,male
+h8u6305l7x,14,2524,68,no shade,#d0e942,67,75,male
+h8u6305l7x,15,2697,22,no shade,#d5b811,68,75,male
+h8u6305l7x,16,2823,200,no shade,#dddddd,29,75,male
+h8u6305l7x,17,3672,-80,no shade,#600b84,7,75,male
+h8u6305l7x,18,2713,-32,no shade,#3b8378,21,75,male
+h8u6305l7x,19,2335,36,no shade,#f7db7c,58,75,male
+h8u6305l7x,20,3556,-109,no shade,#3b3b3b,25,75,male
+h8u6305l7x,22,4759,171,a lot of shade,#3b3b3b,25,75,male
+h8u6305l7x,23,4199,28,a lot of shade,#3b8378,21,75,male
+h8u6305l7x,24,3074,-38,a lot of shade,#d5b811,68,75,male
+h8u6305l7x,25,2022,-100,a lot of shade,#d0e942,67,75,male
+h8u6305l7x,26,3675,96,a lot of shade,#72005e,17,75,male
+h8u6305l7x,27,2476,27,a lot of shade,#777777,26,75,male
+h8u6305l7x,28,4557,-200,a lot of shade,#dddddd,29,75,male
+h8u6305l7x,29,5538,-24,a lot of shade,#0e8a19,50,75,male
+h8u6305l7x,30,5370,-106,a lot of shade,#f7db7c,58,75,male
+h8u6305l7x,31,1828,-51,a lot of shade,#fba714,70,75,male
+h8u6305l7x,32,6469,-105,a lot of shade,#b9b9b9,27,75,male
+h8u6305l7x,33,5060,-161,a lot of shade,#600b84,7,75,male
+h8u6305l7x,37,4275,-171,celery,#b62ef2,3,75,male
+h8u6305l7x,38,3656,-129,celery,#90689f,15,75,male
+h8u6305l7x,39,3928,164,celery,#73f5b0,36,75,male
+h8u6305l7x,40,2461,109,celery,#608218,53,75,male
+h8u6305l7x,41,2699,149,celery,#96c58c,39,75,male
+h8u6305l7x,42,4983,176,celery,#73cf10,64,75,male
+h8u6305l7x,43,2799,122,celery,#4bcf8e,35,75,male
+h8u6305l7x,44,3947,71,celery,#d0e942,67,75,male
+h8u6305l7x,45,2192,-145,celery,#ea1d1d,62,75,male
+h8u6305l7x,46,2305,-200,celery,#443b14,41,75,male
+h8u6305l7x,47,2477,132,celery,#67cf5c,51,75,male
+h8u6305l7x,48,2546,55,celery,#0e8a19,50,75,male
+h8u6305l7x,49,2833,113,celery,#c8e97d,55,75,male
+h8u6305l7x,50,3205,161,celery,#baeaaf,40,75,male
+h8u6305l7x,51,2235,108,celery,#aac510,66,75,male
+h8u6305l7x,52,3790,17,celery,#184415,37,75,male
+h8u6305l7x,53,2783,181,celery,#3efe44,63,75,male
+h8u6305l7x,54,5900,-96,celery,#83764c,42,75,male
+h8u6305l7x,55,4281,-32,celery,#ffffff,28,75,male
+h8u6305l7x,56,2233,128,celery,#a3c55b,54,75,male
+h8u6305l7x,57,2095,-184,celery,#600b84,7,75,male
+h8u6305l7x,58,2119,147,celery,#9af443,65,75,male
+h8u6305l7x,59,2051,-153,celery,#72005e,17,75,male
+h8u6305l7x,60,4111,-200,celery,#e81a4b,49,75,male
+lcnaq53w2s,9,3975,-200,no shade,#72005e,17,29,fema
+lcnaq53w2s,10,3592.9,-200,no shade,#600b84,7,29,fema
+lcnaq53w2s,11,2155.2,-200,no shade,#d5b811,68,29,fema
+lcnaq53w2s,12,2144.8,-200,no shade,#3b3b3b,25,29,fema
+lcnaq53w2s,13,3407.4,-120,no shade,#777777,26,29,fema
+lcnaq53w2s,14,2100.6,-200,no shade,#3b8378,21,29,fema
+lcnaq53w2s,15,2296.3,200,no shade,#b9b9b9,27,29,fema
+lcnaq53w2s,16,1947,-200,no shade,#0e8a19,50,29,fema
+lcnaq53w2s,17,2624.9,-200,no shade,#fba714,70,29,fema
+lcnaq53w2s,18,1919.2,-200,no shade,#d0e942,67,29,fema
+lcnaq53w2s,19,1737,-200,no shade,#f7db7c,58,29,fema
+lcnaq53w2s,20,2182.8,200,no shade,#dddddd,29,29,fema
+lcnaq53w2s,22,2007.4,-200,a lot of shade,#d5b811,68,29,fema
+lcnaq53w2s,23,1773.4,-200,a lot of shade,#0e8a19,50,29,fema
+lcnaq53w2s,24,1834.9,-200,a lot of shade,#600b84,7,29,fema
+lcnaq53w2s,25,1626.1,-200,a lot of shade,#3b8378,21,29,fema
+lcnaq53w2s,26,1753.9,200,a lot of shade,#3b3b3b,25,29,fema
+lcnaq53w2s,27,1945.2,-200,a lot of shade,#72005e,17,29,fema
+lcnaq53w2s,28,2145.4,-61,a lot of shade,#b9b9b9,27,29,fema
+lcnaq53w2s,29,1664.5,-197,a lot of shade,#fba714,70,29,fema
+lcnaq53w2s,30,1776.2,-200,a lot of shade,#dddddd,29,29,fema
+lcnaq53w2s,31,2373.7,81,a lot of shade,#777777,26,29,fema
+lcnaq53w2s,32,1873.7,-200,a lot of shade,#d0e942,67,29,fema
+lcnaq53w2s,33,1844.1,-200,a lot of shade,#f7db7c,58,29,fema
+lcnaq53w2s,37,1942.9,86,celery,#aac510,66,29,fema
+lcnaq53w2s,38,2238.7,104,celery,#c8e97d,55,29,fema
+lcnaq53w2s,39,1891.9,-75,celery,#83764c,42,29,fema
+lcnaq53w2s,40,1913.1,59,celery,#608218,53,29,fema
+lcnaq53w2s,41,1989.6,120,celery,#96c58c,39,29,fema
+lcnaq53w2s,42,2189.1,8,celery,#67cf5c,51,29,fema
+lcnaq53w2s,43,2149.7,9,celery,#73cf10,64,29,fema
+lcnaq53w2s,44,1742.9,-200,celery,#90689f,15,29,fema
+lcnaq53w2s,45,1889.9,58,celery,#baeaaf,40,29,fema
+lcnaq53w2s,46,1960.8,-200,celery,#600b84,7,29,fema
+lcnaq53w2s,47,2119.9,-120,celery,#443b14,41,29,fema
+lcnaq53w2s,48,1848.5,17,celery,#3efe44,63,29,fema
+lcnaq53w2s,49,1777.9,13,celery,#4bcf8e,35,29,fema
+lcnaq53w2s,50,1783.6,18,celery,#184415,37,29,fema
+lcnaq53w2s,51,1857.4,-200,celery,#b62ef2,3,29,fema
+lcnaq53w2s,52,1843.1,-200,celery,#ea1d1d,62,29,fema
+lcnaq53w2s,53,2005.4,13,celery,#73f5b0,36,29,fema
+lcnaq53w2s,54,1618.6,8,celery,#9af443,65,29,fema
+lcnaq53w2s,55,1792,-200,celery,#e81a4b,49,29,fema
+lcnaq53w2s,56,1791.8,-200,celery,#ffffff,28,29,fema
+lcnaq53w2s,57,1709.6,9,celery,#0e8a19,50,29,fema
+lcnaq53w2s,58,1682.7,88,celery,#a3c55b,54,29,fema
+lcnaq53w2s,59,2115.6,-47,celery,#d0e942,67,29,fema
+lcnaq53w2s,60,1649.2,-200,celery,#72005e,17,29,fema
+lux37l8eah,9,11147,110,no shade,#d5b811,68,43,male
+lux37l8eah,10,5618,20,no shade,#fba714,70,43,male
+lux37l8eah,11,3389,200,no shade,#dddddd,29,43,male
+lux37l8eah,12,2291,164,no shade,#b9b9b9,27,43,male
+lux37l8eah,13,2884,-119,no shade,#600b84,7,43,male
+lux37l8eah,14,3676,-29,no shade,#3b8378,21,43,male
+lux37l8eah,15,2505,105,no shade,#d0e942,67,43,male
+lux37l8eah,16,2691,-59,no shade,#72005e,17,43,male
+lux37l8eah,17,4008,-196,no shade,#3b3b3b,25,43,male
+lux37l8eah,18,2935,150,no shade,#f7db7c,58,43,male
+lux37l8eah,19,2223,162,no shade,#777777,26,43,male
+lux37l8eah,20,2620,-26,no shade,#0e8a19,50,43,male
+lux37l8eah,22,2613,-70,a lot of shade,#3b8378,21,43,male
+lux37l8eah,23,2149,189,a lot of shade,#3b3b3b,25,43,male
+lux37l8eah,24,1932,128,a lot of shade,#72005e,17,43,male
+lux37l8eah,25,2073,-154,a lot of shade,#f7db7c,58,43,male
+lux37l8eah,26,1997,-182,a lot of shade,#b9b9b9,27,43,male
+lux37l8eah,27,2578,-80,a lot of shade,#d5b811,68,43,male
+lux37l8eah,28,2012,-117,a lot of shade,#0e8a19,50,43,male
+lux37l8eah,29,3604,-191,a lot of shade,#d0e942,67,43,male
+lux37l8eah,30,2428,-154,a lot of shade,#fba714,70,43,male
+lux37l8eah,31,2767,-200,a lot of shade,#dddddd,29,43,male
+lux37l8eah,32,3353,-113,a lot of shade,#777777,26,43,male
+lux37l8eah,33,1993,-166,a lot of shade,#600b84,7,43,male
+lux37l8eah,37,3038,-50,celery,#baeaaf,40,43,male
+lux37l8eah,38,1977,-142,celery,#72005e,17,43,male
+lux37l8eah,39,2203,41,celery,#a3c55b,54,43,male
+lux37l8eah,40,2231,26,celery,#4bcf8e,35,43,male
+lux37l8eah,41,2952,-4,celery,#ffffff,28,43,male
+lux37l8eah,42,2458,162,celery,#9af443,65,43,male
+lux37l8eah,43,2127,105,celery,#184415,37,43,male
+lux37l8eah,44,1738,130,celery,#96c58c,39,43,male
+lux37l8eah,45,2182,113,celery,#73f5b0,36,43,male
+lux37l8eah,46,2605,-73,celery,#b62ef2,3,43,male
+lux37l8eah,47,3055,-183,celery,#ea1d1d,62,43,male
+lux37l8eah,48,2138,133,celery,#aac510,66,43,male
+lux37l8eah,49,2692,30,celery,#443b14,41,43,male
+lux37l8eah,50,2409,101,celery,#c8e97d,55,43,male
+lux37l8eah,51,1994,151,celery,#608218,53,43,male
+lux37l8eah,52,1556,166,celery,#3efe44,63,43,male
+lux37l8eah,53,1845,-161,celery,#e81a4b,49,43,male
+lux37l8eah,54,2054,-33,celery,#83764c,42,43,male
+lux37l8eah,55,1795,-135,celery,#600b84,7,43,male
+lux37l8eah,56,1967,93,celery,#0e8a19,50,43,male
+lux37l8eah,57,4050,192,celery,#73cf10,64,43,male
+lux37l8eah,58,1839,189,celery,#67cf5c,51,43,male
+lux37l8eah,59,2634,2,celery,#d0e942,67,43,male
+lux37l8eah,60,2699,-48,celery,#90689f,15,43,male
+mu2256fpfd,9,3093.7,-105,no shade,#fba714,70,30,Fema
+mu2256fpfd,10,2446.2,100,no shade,#3b3b3b,25,30,Fema
+mu2256fpfd,11,2289.6,69,no shade,#72005e,17,30,Fema
+mu2256fpfd,12,2513.8,-191,no shade,#f7db7c,58,30,Fema
+mu2256fpfd,13,1958.8,24,no shade,#d5b811,68,30,Fema
+mu2256fpfd,14,3031.6,-200,no shade,#b9b9b9,27,30,Fema
+mu2256fpfd,15,2323.1,-35,no shade,#3b8378,21,30,Fema
+mu2256fpfd,16,2486,-92,no shade,#777777,26,30,Fema
+mu2256fpfd,17,1720.7,55,no shade,#0e8a19,50,30,Fema
+mu2256fpfd,18,2396.7,-200,no shade,#dddddd,29,30,Fema
+mu2256fpfd,19,1857.1,-64,no shade,#d0e942,67,30,Fema
+mu2256fpfd,20,1759,175,no shade,#600b84,7,30,Fema
+mu2256fpfd,22,8279.4,-24,a lot of shade,#d0e942,67,30,Fema
+mu2256fpfd,23,6136.4,-101,a lot of shade,#f7db7c,58,30,Fema
+mu2256fpfd,24,3696.2,52,a lot of shade,#d5b811,68,30,Fema
+mu2256fpfd,25,1954.6,120,a lot of shade,#fba714,70,30,Fema
+mu2256fpfd,26,2200.6,-65,a lot of shade,#3b8378,21,30,Fema
+mu2256fpfd,27,2543,140,a lot of shade,#3b3b3b,25,30,Fema
+mu2256fpfd,28,5217.5,80,a lot of shade,#72005e,17,30,Fema
+mu2256fpfd,29,1990.8,-182,a lot of shade,#b9b9b9,27,30,Fema
+mu2256fpfd,30,3375.7,-197,a lot of shade,#dddddd,29,30,Fema
+mu2256fpfd,31,1698.3,55,a lot of shade,#600b84,7,30,Fema
+mu2256fpfd,32,1782.2,-102,a lot of shade,#777777,26,30,Fema
+mu2256fpfd,33,1476.7,84,a lot of shade,#0e8a19,50,30,Fema
+mu2256fpfd,37,2820.7,-54,celery,#443b14,41,30,Fema
+mu2256fpfd,38,1695,-200,celery,#ffffff,28,30,Fema
+mu2256fpfd,39,3239.2,-16,celery,#d0e942,67,30,Fema
+mu2256fpfd,40,2471.1,150,celery,#73cf10,64,30,Fema
+mu2256fpfd,41,2452.7,-200,celery,#600b84,7,30,Fema
+mu2256fpfd,42,1633.7,106,celery,#3efe44,63,30,Fema
+mu2256fpfd,43,1947.9,65,celery,#67cf5c,51,30,Fema
+mu2256fpfd,44,1909.8,115,celery,#baeaaf,40,30,Fema
+mu2256fpfd,45,1976.4,-189,celery,#90689f,15,30,Fema
+mu2256fpfd,46,2804.4,-57,celery,#aac510,66,30,Fema
+mu2256fpfd,47,2374.6,-197,celery,#ea1d1d,62,30,Fema
+mu2256fpfd,48,2539.2,28,celery,#4bcf8e,35,30,Fema
+mu2256fpfd,49,1988.5,-113,celery,#72005e,17,30,Fema
+mu2256fpfd,50,1454.7,74,celery,#73f5b0,36,30,Fema
+mu2256fpfd,51,1896.6,141,celery,#608218,53,30,Fema
+mu2256fpfd,52,2074.8,-198,celery,#b62ef2,3,30,Fema
+mu2256fpfd,53,1920.8,153,celery,#0e8a19,50,30,Fema
+mu2256fpfd,54,1475.4,65,celery,#a3c55b,54,30,Fema
+mu2256fpfd,55,1658.5,102,celery,#96c58c,39,30,Fema
+mu2256fpfd,56,2164.5,42,celery,#83764c,42,30,Fema
+mu2256fpfd,57,2455.1,195,celery,#184415,37,30,Fema
+mu2256fpfd,58,1479.1,78,celery,#c8e97d,55,30,Fema
+mu2256fpfd,59,1422,122,celery,#9af443,65,30,Fema
+mu2256fpfd,60,2177,-200,celery,#e81a4b,49,30,Fema
+nqrhmhyp1v,9,5181.3,129,no shade,#f7db7c,58,35,male
+nqrhmhyp1v,10,3720.1,31,no shade,#0e8a19,50,35,male
+nqrhmhyp1v,11,3589.7,-73,no shade,#b9b9b9,27,35,male
+nqrhmhyp1v,12,2091.9,-70,no shade,#3b8378,21,35,male
+nqrhmhyp1v,13,3671.5,-103,no shade,#72005e,17,35,male
+nqrhmhyp1v,14,3026.6,129,no shade,#d0e942,67,35,male
+nqrhmhyp1v,15,4703.5,27,no shade,#dddddd,29,35,male
+nqrhmhyp1v,16,6054.7,100,no shade,#d5b811,68,35,male
+nqrhmhyp1v,17,2331.5,-200,no shade,#3b3b3b,25,35,male
+nqrhmhyp1v,18,2907.8,-170,no shade,#777777,26,35,male
+nqrhmhyp1v,19,3317.5,-67,no shade,#600b84,7,35,male
+nqrhmhyp1v,20,4447.4,129,no shade,#fba714,70,35,male
+nqrhmhyp1v,22,2077.2,200,a lot of shade,#3b3b3b,25,35,male
+nqrhmhyp1v,23,2002.3,133,a lot of shade,#777777,26,35,male
+nqrhmhyp1v,24,3173.2,-171,a lot of shade,#d0e942,67,35,male
+nqrhmhyp1v,25,3381,17,a lot of shade,#72005e,17,35,male
+nqrhmhyp1v,26,2906.1,-151,a lot of shade,#f7db7c,58,35,male
+nqrhmhyp1v,27,2257.8,-139,a lot of shade,#fba714,70,35,male
+nqrhmhyp1v,28,2666.8,16,a lot of shade,#3b8378,21,35,male
+nqrhmhyp1v,29,3226.9,70,a lot of shade,#600b84,7,35,male
+nqrhmhyp1v,30,3973.4,-89,a lot of shade,#0e8a19,50,35,male
+nqrhmhyp1v,31,4490.3,-142,a lot of shade,#dddddd,29,35,male
+nqrhmhyp1v,32,5095.7,-15,a lot of shade,#b9b9b9,27,35,male
+nqrhmhyp1v,33,2884.5,-130,a lot of shade,#d5b811,68,35,male
+nqrhmhyp1v,37,3351.7,26,celery,#184415,37,35,male
+nqrhmhyp1v,38,2444.3,45,celery,#d0e942,67,35,male
+nqrhmhyp1v,39,3143.9,-200,celery,#ffffff,28,35,male
+nqrhmhyp1v,40,3265.4,-158,celery,#443b14,41,35,male
+nqrhmhyp1v,41,2586.6,-146,celery,#4bcf8e,35,35,male
+nqrhmhyp1v,42,3879.6,66,celery,#baeaaf,40,35,male
+nqrhmhyp1v,43,2979.4,9,celery,#73f5b0,36,35,male
+nqrhmhyp1v,44,1573.6,-200,celery,#b62ef2,3,35,male
+nqrhmhyp1v,45,3357.2,57,celery,#67cf5c,51,35,male
+nqrhmhyp1v,46,1741.8,-200,celery,#600b84,7,35,male
+nqrhmhyp1v,47,2771.7,61,celery,#9af443,65,35,male
+nqrhmhyp1v,48,2330.3,200,celery,#a3c55b,54,35,male
+nqrhmhyp1v,49,1512.1,-200,celery,#ea1d1d,62,35,male
+nqrhmhyp1v,50,3488,88,celery,#96c58c,39,35,male
+nqrhmhyp1v,51,1322.6,-200,celery,#90689f,15,35,male
+nqrhmhyp1v,52,2244,67,celery,#0e8a19,50,35,male
+nqrhmhyp1v,53,1473.4,-200,celery,#72005e,17,35,male
+nqrhmhyp1v,54,3306.7,119,celery,#73cf10,64,35,male
+nqrhmhyp1v,55,2729.8,200,celery,#608218,53,35,male
+nqrhmhyp1v,56,2225.6,57,celery,#83764c,42,35,male
+nqrhmhyp1v,57,2198.7,147,celery,#aac510,66,35,male
+nqrhmhyp1v,58,1421.7,-200,celery,#e81a4b,49,35,male
+nqrhmhyp1v,59,2345.3,185,celery,#c8e97d,55,35,male
+nqrhmhyp1v,60,2666.3,47,celery,#3efe44,63,35,male
+o94ad6799q,9,4277.8,-105,no shade,#3b8378,21,26,Fema
+o94ad6799q,10,2336.7,-200,no shade,#3b3b3b,25,26,Fema
+o94ad6799q,11,3278.2,-200,no shade,#dddddd,29,26,Fema
+o94ad6799q,12,13877.4,-15,no shade,#0e8a19,50,26,Fema
+o94ad6799q,13,2939.9,-148,no shade,#d0e942,67,26,Fema
+o94ad6799q,14,2218.8,-72,no shade,#f7db7c,58,26,Fema
+o94ad6799q,15,3990.8,-14,no shade,#d5b811,68,26,Fema
+o94ad6799q,16,5453.1,-67,no shade,#600b84,7,26,Fema
+o94ad6799q,17,3011.4,-95,no shade,#777777,26,26,Fema
+o94ad6799q,18,2894.6,200,no shade,#b9b9b9,27,26,Fema
+o94ad6799q,19,1989.7,132,no shade,#fba714,70,26,Fema
+o94ad6799q,20,2057.1,-72,no shade,#72005e,17,26,Fema
+o94ad6799q,22,4753.2,-166,a lot of shade,#fba714,70,26,Fema
+o94ad6799q,23,2544.8,200,a lot of shade,#3b3b3b,25,26,Fema
+o94ad6799q,24,1815.1,68,a lot of shade,#3b8378,21,26,Fema
+o94ad6799q,25,2695.5,30,a lot of shade,#f7db7c,58,26,Fema
+o94ad6799q,26,2093.9,-155,a lot of shade,#d0e942,67,26,Fema
+o94ad6799q,27,2232.4,120,a lot of shade,#777777,26,26,Fema
+o94ad6799q,28,3305.7,67,a lot of shade,#0e8a19,50,26,Fema
+o94ad6799q,29,1077.8,49,a lot of shade,#72005e,17,26,Fema
+o94ad6799q,30,1821.7,-73,a lot of shade,#d5b811,68,26,Fema
+o94ad6799q,31,2245.3,-200,a lot of shade,#dddddd,29,26,Fema
+o94ad6799q,32,3887.4,-155,a lot of shade,#b9b9b9,27,26,Fema
+o94ad6799q,33,3215.5,55,a lot of shade,#600b84,7,26,Fema
+o94ad6799q,37,1974.7,-200,celery,#72005e,17,26,Fema
+o94ad6799q,38,2551.2,29,celery,#aac510,66,26,Fema
+o94ad6799q,39,2082,36,celery,#96c58c,39,26,Fema
+o94ad6799q,40,1515,-18,celery,#d0e942,67,26,Fema
+o94ad6799q,41,2382,160,celery,#73cf10,64,26,Fema
+o94ad6799q,42,1740,-200,celery,#e81a4b,49,26,Fema
+o94ad6799q,43,1824.3,146,celery,#3efe44,63,26,Fema
+o94ad6799q,44,1822.5,200,celery,#a3c55b,54,26,Fema
+o94ad6799q,45,2915.6,87,celery,#443b14,41,26,Fema
+o94ad6799q,46,1599.2,-43,celery,#baeaaf,40,26,Fema
+o94ad6799q,47,2607.1,41,celery,#c8e97d,55,26,Fema
+o94ad6799q,48,2640.2,62,celery,#4bcf8e,35,26,Fema
+o94ad6799q,49,3040.7,-200,celery,#ffffff,28,26,Fema
+o94ad6799q,50,1302,67,celery,#73f5b0,36,26,Fema
+o94ad6799q,51,1993,-200,celery,#ea1d1d,62,26,Fema
+o94ad6799q,52,1590.6,-200,celery,#90689f,15,26,Fema
+o94ad6799q,53,1814.7,163,celery,#0e8a19,50,26,Fema
+o94ad6799q,54,1296.1,80,celery,#9af443,65,26,Fema
+o94ad6799q,55,2294.3,-200,celery,#600b84,7,26,Fema
+o94ad6799q,56,1928.9,128,celery,#184415,37,26,Fema
+o94ad6799q,57,2086.6,200,celery,#608218,53,26,Fema
+o94ad6799q,58,2785.6,-200,celery,#b62ef2,3,26,Fema
+o94ad6799q,59,1889,-200,celery,#83764c,42,26,Fema
+o94ad6799q,60,2013.4,93,celery,#67cf5c,51,26,Fema
+ol5apfq2ns,9,7276.5,-45,a lot of shade,#3b8378,21,30,male
+ol5apfq2ns,10,3536.6,-120,a lot of shade,#f7db7c,58,30,male
+ol5apfq2ns,11,3037.2,146,a lot of shade,#600b84,7,30,male
+ol5apfq2ns,12,3075.8,185,a lot of shade,#3b3b3b,25,30,male
+ol5apfq2ns,13,2771.4,-150,a lot of shade,#b9b9b9,27,30,male
+ol5apfq2ns,14,6331.4,-1,a lot of shade,#fba714,70,30,male
+ol5apfq2ns,15,3217.5,110,a lot of shade,#72005e,17,30,male
+ol5apfq2ns,16,3939.9,-43,a lot of shade,#777777,26,30,male
+ol5apfq2ns,17,2774.9,50,a lot of shade,#0e8a19,50,30,male
+ol5apfq2ns,18,2607.6,-200,a lot of shade,#dddddd,29,30,male
+ol5apfq2ns,19,3375.1,-120,a lot of shade,#d0e942,67,30,male
+ol5apfq2ns,20,2698.8,-19,a lot of shade,#d5b811,68,30,male
+ol5apfq2ns,22,5493.4,200,no shade,#dddddd,29,30,male
+ol5apfq2ns,23,15020,-155,no shade,#600b84,7,30,male
+ol5apfq2ns,24,5305,82,no shade,#3b8378,21,30,male
+ol5apfq2ns,25,3391,150,no shade,#f7db7c,58,30,male
+ol5apfq2ns,26,2499.2,17,no shade,#0e8a19,50,30,male
+ol5apfq2ns,27,5130.7,105,no shade,#b9b9b9,27,30,male
+ol5apfq2ns,28,3343.8,-31,no shade,#777777,26,30,male
+ol5apfq2ns,29,3536.8,10,no shade,#d0e942,67,30,male
+ol5apfq2ns,30,4110.4,-180,no shade,#3b3b3b,25,30,male
+ol5apfq2ns,31,4103.5,-101,no shade,#fba714,70,30,male
+ol5apfq2ns,32,5350.3,-139,no shade,#72005e,17,30,male
+ol5apfq2ns,33,2231,-132,no shade,#d5b811,68,30,male
+ol5apfq2ns,37,3005.1,91,celery,#0e8a19,50,30,male
+ol5apfq2ns,38,2210.2,-86,celery,#600b84,7,30,male
+ol5apfq2ns,39,2636.1,-200,celery,#e81a4b,49,30,male
+ol5apfq2ns,40,2109,100,celery,#73cf10,64,30,male
+ol5apfq2ns,41,2703.5,-200,celery,#90689f,15,30,male
+ol5apfq2ns,42,3725.5,-69,celery,#184415,37,30,male
+ol5apfq2ns,43,2692.1,178,celery,#96c58c,39,30,male
+ol5apfq2ns,44,3751.5,-175,celery,#443b14,41,30,male
+ol5apfq2ns,45,2845.9,97,celery,#a3c55b,54,30,male
+ol5apfq2ns,46,2099.9,82,celery,#aac510,66,30,male
+ol5apfq2ns,47,3279.9,116,celery,#9af443,65,30,male
+ol5apfq2ns,48,1725,-200,celery,#72005e,17,30,male
+ol5apfq2ns,49,3293,43,celery,#ffffff,28,30,male
+ol5apfq2ns,50,2398.7,125,celery,#608218,53,30,male
+ol5apfq2ns,51,2049,71,celery,#67cf5c,51,30,male
+ol5apfq2ns,52,3270.3,20,celery,#3efe44,63,30,male
+ol5apfq2ns,53,3934.5,103,celery,#c8e97d,55,30,male
+ol5apfq2ns,54,2442.7,-160,celery,#73f5b0,36,30,male
+ol5apfq2ns,55,2763.8,-200,celery,#83764c,42,30,male
+ol5apfq2ns,56,3721.9,-200,celery,#d0e942,67,30,male
+ol5apfq2ns,57,2808.4,122,celery,#baeaaf,40,30,male
+ol5apfq2ns,58,2481.1,-200,celery,#b62ef2,3,30,male
+ol5apfq2ns,59,2066.5,-200,celery,#4bcf8e,35,30,male
+ol5apfq2ns,60,1765.1,-200,celery,#ea1d1d,62,30,male
+ovnfvcv5qc,9,6645.3,120,no shade,#3b8378,21,42,male
+ovnfvcv5qc,10,2557.7,-153,no shade,#3b3b3b,25,42,male
+ovnfvcv5qc,11,2999.6,200,no shade,#b9b9b9,27,42,male
+ovnfvcv5qc,12,1844.8,200,no shade,#d5b811,68,42,male
+ovnfvcv5qc,13,2259.5,200,no shade,#72005e,17,42,male
+ovnfvcv5qc,14,4617.2,-155,no shade,#777777,26,42,male
+ovnfvcv5qc,15,3734.6,200,no shade,#d0e942,67,42,male
+ovnfvcv5qc,16,2115.2,-84,no shade,#600b84,7,42,male
+ovnfvcv5qc,17,2584.7,200,no shade,#0e8a19,50,42,male
+ovnfvcv5qc,18,2142.6,-39,no shade,#f7db7c,58,42,male
+ovnfvcv5qc,19,4256.9,75,no shade,#dddddd,29,42,male
+ovnfvcv5qc,20,3659.2,161,no shade,#fba714,70,42,male
+ovnfvcv5qc,22,5190.1,-59,a lot of shade,#dddddd,29,42,male
+ovnfvcv5qc,23,3211.9,32,a lot of shade,#b9b9b9,27,42,male
+ovnfvcv5qc,24,3296.4,-200,a lot of shade,#72005e,17,42,male
+ovnfvcv5qc,25,3056.8,176,a lot of shade,#3b3b3b,25,42,male
+ovnfvcv5qc,26,2214.8,53,a lot of shade,#777777,26,42,male
+ovnfvcv5qc,27,2253.7,-200,a lot of shade,#d0e942,67,42,male
+ovnfvcv5qc,28,1787.9,-200,a lot of shade,#fba714,70,42,male
+ovnfvcv5qc,29,2032.2,-150,a lot of shade,#f7db7c,58,42,male
+ovnfvcv5qc,30,1922.7,-181,a lot of shade,#0e8a19,50,42,male
+ovnfvcv5qc,31,2132.8,-200,a lot of shade,#d5b811,68,42,male
+ovnfvcv5qc,32,2432.6,23,a lot of shade,#3b8378,21,42,male
+ovnfvcv5qc,33,2020.1,-101,a lot of shade,#600b84,7,42,male
+ovnfvcv5qc,37,2293.7,101,celery,#96c58c,39,42,male
+ovnfvcv5qc,38,1732,38,celery,#184415,37,42,male
+ovnfvcv5qc,39,1597.5,-200,celery,#ea1d1d,62,42,male
+ovnfvcv5qc,40,8926.2,138,celery,#3efe44,63,42,male
+ovnfvcv5qc,41,2423.3,175,celery,#73cf10,64,42,male
+ovnfvcv5qc,42,2117.9,200,celery,#67cf5c,51,42,male
+ovnfvcv5qc,43,1839.5,-200,celery,#90689f,15,42,male
+ovnfvcv5qc,44,1713.7,-200,celery,#b62ef2,3,42,male
+ovnfvcv5qc,45,2210.3,-200,celery,#443b14,41,42,male
+ovnfvcv5qc,46,1621.6,-200,celery,#a3c55b,54,42,male
+ovnfvcv5qc,47,2171.2,74,celery,#9af443,65,42,male
+ovnfvcv5qc,48,3018.3,-200,celery,#600b84,7,42,male
+ovnfvcv5qc,49,2166.4,-36,celery,#4bcf8e,35,42,male
+ovnfvcv5qc,50,2006.9,-200,celery,#c8e97d,55,42,male
+ovnfvcv5qc,51,2160.2,-48,celery,#608218,53,42,male
+ovnfvcv5qc,52,2385.3,200,celery,#0e8a19,50,42,male
+ovnfvcv5qc,53,1703.6,-200,celery,#e81a4b,49,42,male
+ovnfvcv5qc,54,2093.7,-60,celery,#73f5b0,36,42,male
+ovnfvcv5qc,55,1833.3,-200,celery,#aac510,66,42,male
+ovnfvcv5qc,56,1966.9,-200,celery,#ffffff,28,42,male
+ovnfvcv5qc,57,1838.2,-200,celery,#83764c,42,42,male
+ovnfvcv5qc,58,1960,-200,celery,#d0e942,67,42,male
+ovnfvcv5qc,59,1775.9,-200,celery,#72005e,17,42,male
+ovnfvcv5qc,60,2074.2,-69,celery,#baeaaf,40,42,male
+rghh3chab7,9,4111.6,87,no shade,#d5b811,68,22,male
+rghh3chab7,10,4480.4,-103,no shade,#777777,26,22,male
+rghh3chab7,11,3017.5,101,no shade,#fba714,70,22,male
+rghh3chab7,12,1984.3,200,no shade,#dddddd,29,22,male
+rghh3chab7,13,2355.4,-113,no shade,#72005e,17,22,male
+rghh3chab7,14,2077.5,95,no shade,#d0e942,67,22,male
+rghh3chab7,15,2777,200,no shade,#0e8a19,50,22,male
+rghh3chab7,16,2240.3,-46,no shade,#3b8378,21,22,male
+rghh3chab7,17,2052,-127,no shade,#600b84,7,22,male
+rghh3chab7,18,2065.4,-200,no shade,#3b3b3b,25,22,male
+rghh3chab7,19,2172.3,200,no shade,#b9b9b9,27,22,male
+rghh3chab7,20,2176.7,200,no shade,#f7db7c,58,22,male
+rghh3chab7,22,2224.2,141,a lot of shade,#72005e,17,22,male
+rghh3chab7,23,3736.3,-136,a lot of shade,#0e8a19,50,22,male
+rghh3chab7,24,2415.7,-62,a lot of shade,#fba714,70,22,male
+rghh3chab7,25,1990.4,-200,a lot of shade,#d0e942,67,22,male
+rghh3chab7,26,4650.2,121,a lot of shade,#3b8378,21,22,male
+rghh3chab7,27,2608.4,-200,a lot of shade,#f7db7c,58,22,male
+rghh3chab7,28,2312.5,-85,a lot of shade,#d5b811,68,22,male
+rghh3chab7,29,3515.1,-200,a lot of shade,#600b84,7,22,male
+rghh3chab7,30,2083.8,-200,a lot of shade,#777777,26,22,male
+rghh3chab7,31,2656.5,-200,a lot of shade,#dddddd,29,22,male
+rghh3chab7,32,3406.9,184,a lot of shade,#3b3b3b,25,22,male
+rghh3chab7,33,2088.4,-200,a lot of shade,#b9b9b9,27,22,male
+rghh3chab7,37,2332.6,-200,celery,#83764c,42,22,male
+rghh3chab7,38,1639.2,-200,celery,#600b84,7,22,male
+rghh3chab7,39,1999.2,42,celery,#aac510,66,22,male
+rghh3chab7,40,1907.8,9,celery,#baeaaf,40,22,male
+rghh3chab7,41,1863.8,79,celery,#67cf5c,51,22,male
+rghh3chab7,42,1744,200,celery,#3efe44,63,22,male
+rghh3chab7,43,2026.1,-200,celery,#90689f,15,22,male
+rghh3chab7,44,2377.9,-200,celery,#72005e,17,22,male
+rghh3chab7,45,1941.9,-200,celery,#ea1d1d,62,22,male
+rghh3chab7,46,3546.4,173,celery,#0e8a19,50,22,male
+rghh3chab7,47,1935.7,19,celery,#96c58c,39,22,male
+rghh3chab7,48,3100.1,200,celery,#73cf10,64,22,male
+rghh3chab7,49,1624,-200,celery,#e81a4b,49,22,male
+rghh3chab7,50,1739.9,18,celery,#a3c55b,54,22,male
+rghh3chab7,51,2130.6,-94,celery,#73f5b0,36,22,male
+rghh3chab7,52,3483.2,36,celery,#608218,53,22,male
+rghh3chab7,53,1708.9,-27,celery,#4bcf8e,35,22,male
+rghh3chab7,54,1837.4,-200,celery,#443b14,41,22,male
+rghh3chab7,55,1717.4,-200,celery,#ffffff,28,22,male
+rghh3chab7,56,1672.2,-200,celery,#d0e942,67,22,male
+rghh3chab7,57,1868.1,30,celery,#184415,37,22,male
+rghh3chab7,58,1688.3,-200,celery,#b62ef2,3,22,male
+rghh3chab7,59,1691.6,53,celery,#9af443,65,22,male
+rghh3chab7,60,2176.5,-54,celery,#c8e97d,55,22,male
+vbsnxo65y8,9,2475.5,182,no shade,#b9b9b9,27,28,Male
+vbsnxo65y8,10,3046.3,-148,no shade,#f7db7c,58,28,Male
+vbsnxo65y8,11,1932.8,-132,no shade,#3b8378,21,28,Male
+vbsnxo65y8,12,2088.3,172,no shade,#3b3b3b,25,28,Male
+vbsnxo65y8,13,1928.2,-200,no shade,#fba714,70,28,Male
+vbsnxo65y8,14,3105.2,-200,no shade,#72005e,17,28,Male
+vbsnxo65y8,15,1812,200,no shade,#dddddd,29,28,Male
+vbsnxo65y8,16,1632.5,-179,no shade,#d5b811,68,28,Male
+vbsnxo65y8,17,2296.1,-200,no shade,#0e8a19,50,28,Male
+vbsnxo65y8,18,1712.2,128,no shade,#777777,26,28,Male
+vbsnxo65y8,19,1725.3,-200,no shade,#600b84,7,28,Male
+vbsnxo65y8,20,1339.6,-99,no shade,#d0e942,67,28,Male
+vbsnxo65y8,22,1562.5,169,a lot of shade,#600b84,7,28,Male
+vbsnxo65y8,23,1889.2,-195,a lot of shade,#777777,26,28,Male
+vbsnxo65y8,24,1881.9,-137,a lot of shade,#3b8378,21,28,Male
+vbsnxo65y8,25,2879.8,172,a lot of shade,#0e8a19,50,28,Male
+vbsnxo65y8,26,1377.7,179,a lot of shade,#72005e,17,28,Male
+vbsnxo65y8,27,2127.1,-174,a lot of shade,#3b3b3b,25,28,Male
+vbsnxo65y8,28,2022.5,184,a lot of shade,#fba714,70,28,Male
+vbsnxo65y8,29,2317.8,-193,a lot of shade,#dddddd,29,28,Male
+vbsnxo65y8,30,1349.4,156,a lot of shade,#d5b811,68,28,Male
+vbsnxo65y8,31,1800.6,-26,a lot of shade,#f7db7c,58,28,Male
+vbsnxo65y8,32,2651.4,-196,a lot of shade,#b9b9b9,27,28,Male
+vbsnxo65y8,33,1926.9,31,a lot of shade,#d0e942,67,28,Male
+vbsnxo65y8,37,2311.7,195,celery,#d0e942,67,28,Male
+vbsnxo65y8,38,1450.7,149,celery,#a3c55b,54,28,Male
+vbsnxo65y8,39,2565.3,-200,celery,#ea1d1d,62,28,Male
+vbsnxo65y8,40,1226.9,-198,celery,#b62ef2,3,28,Male
+vbsnxo65y8,41,2584.4,-125,celery,#baeaaf,40,28,Male
+vbsnxo65y8,42,1160,-76,celery,#608218,53,28,Male
+vbsnxo65y8,43,1301.8,120,celery,#9af443,65,28,Male
+vbsnxo65y8,44,1719.2,-182,celery,#73f5b0,36,28,Male
+vbsnxo65y8,45,2027.4,-200,celery,#e81a4b,49,28,Male
+vbsnxo65y8,46,1681.6,122,celery,#3efe44,63,28,Male
+vbsnxo65y8,47,1783.2,-200,celery,#443b14,41,28,Male
+vbsnxo65y8,48,1260,-200,celery,#83764c,42,28,Male
+vbsnxo65y8,49,1269,135,celery,#96c58c,39,28,Male
+vbsnxo65y8,50,1386.9,130,celery,#67cf5c,51,28,Male
+vbsnxo65y8,51,1273.3,47,celery,#73cf10,64,28,Male
+vbsnxo65y8,52,2118.5,21,celery,#aac510,66,28,Male
+vbsnxo65y8,53,1692.4,63,celery,#0e8a19,50,28,Male
+vbsnxo65y8,54,2145.3,-198,celery,#600b84,7,28,Male
+vbsnxo65y8,55,1499,-68,celery,#184415,37,28,Male
+vbsnxo65y8,56,1155.7,-200,celery,#90689f,15,28,Male
+vbsnxo65y8,57,1400.3,-172,celery,#4bcf8e,35,28,Male
+vbsnxo65y8,58,1674.5,-200,celery,#72005e,17,28,Male
+vbsnxo65y8,59,3209.8,68,celery,#c8e97d,55,28,Male
+vbsnxo65y8,60,1580,-200,celery,#ffffff,28,28,Male
+vz3yvog5cv,9,6127,139,a lot of shade,#600b84,7,40,Male
+vz3yvog5cv,10,2026.8,-72,a lot of shade,#f7db7c,58,40,Male
+vz3yvog5cv,11,1530.5,172,a lot of shade,#3b3b3b,25,40,Male
+vz3yvog5cv,12,1250.4,45,a lot of shade,#0e8a19,50,40,Male
+vz3yvog5cv,13,1104.9,24,a lot of shade,#d5b811,68,40,Male
+vz3yvog5cv,14,1026.5,-33,a lot of shade,#3b8378,21,40,Male
+vz3yvog5cv,15,1210.7,-67,a lot of shade,#fba714,70,40,Male
+vz3yvog5cv,16,881.7,-69,a lot of shade,#d0e942,67,40,Male
+vz3yvog5cv,17,1145.1,156,a lot of shade,#777777,26,40,Male
+vz3yvog5cv,18,1284.7,46,a lot of shade,#b9b9b9,27,40,Male
+vz3yvog5cv,19,915.1,24,a lot of shade,#72005e,17,40,Male
+vz3yvog5cv,20,1129.2,-110,a lot of shade,#dddddd,29,40,Male
+vz3yvog5cv,22,2031,-165,no shade,#f7db7c,58,40,Male
+vz3yvog5cv,23,1011.1,-160,no shade,#d0e942,67,40,Male
+vz3yvog5cv,24,2034,51,no shade,#600b84,7,40,Male
+vz3yvog5cv,25,1339,-101,no shade,#777777,26,40,Male
+vz3yvog5cv,26,1010.4,-128,no shade,#0e8a19,50,40,Male
+vz3yvog5cv,27,859.1,69,no shade,#b9b9b9,27,40,Male
+vz3yvog5cv,28,5312.6,124,no shade,#d5b811,68,40,Male
+vz3yvog5cv,29,762,60,no shade,#dddddd,29,40,Male
+vz3yvog5cv,30,787.3,58,no shade,#fba714,70,40,Male
+vz3yvog5cv,31,2978.9,52,no shade,#3b3b3b,25,40,Male
+vz3yvog5cv,32,810.1,30,no shade,#3b8378,21,40,Male
+vz3yvog5cv,33,1114.3,-83,no shade,#72005e,17,40,Male
+vz3yvog5cv,37,1399.4,-200,celery,#ffffff,28,40,Male
+vz3yvog5cv,38,977.4,-124,celery,#ea1d1d,62,40,Male
+vz3yvog5cv,39,834.7,-106,celery,#e81a4b,49,40,Male
+vz3yvog5cv,40,1017.6,72,celery,#c8e97d,55,40,Male
+vz3yvog5cv,41,897.6,-75,celery,#83764c,42,40,Male
+vz3yvog5cv,42,913.8,69,celery,#baeaaf,40,40,Male
+vz3yvog5cv,43,914.2,-49,celery,#600b84,7,40,Male
+vz3yvog5cv,44,858.2,-85,celery,#0e8a19,50,40,Male
+vz3yvog5cv,45,898.2,-83,celery,#4bcf8e,35,40,Male
+vz3yvog5cv,46,905.8,-57,celery,#d0e942,67,40,Male
+vz3yvog5cv,47,893.6,28,celery,#73f5b0,36,40,Male
+vz3yvog5cv,48,897.3,-49,celery,#184415,37,40,Male
+vz3yvog5cv,49,1052.9,-52,celery,#72005e,17,40,Male
+vz3yvog5cv,50,920.9,41,celery,#3efe44,63,40,Male
+vz3yvog5cv,51,1458.2,30,celery,#96c58c,39,40,Male
+vz3yvog5cv,52,825.9,52,celery,#67cf5c,51,40,Male
+vz3yvog5cv,53,906.1,61,celery,#608218,53,40,Male
+vz3yvog5cv,54,858,-69,celery,#b62ef2,3,40,Male
+vz3yvog5cv,55,1530.4,21,celery,#9af443,65,40,Male
+vz3yvog5cv,56,802.5,21,celery,#73cf10,64,40,Male
+vz3yvog5cv,57,1602.1,13,celery,#a3c55b,54,40,Male
+vz3yvog5cv,58,1130.3,14,celery,#aac510,66,40,Male
+vz3yvog5cv,59,1273.8,26,celery,#443b14,41,40,Male
+vz3yvog5cv,60,754.5,-101,celery,#90689f,15,40,Male
+woon4p5mdb,9,22012.7,-145,no shade,#d0e942,67,37,male
+woon4p5mdb,10,3132.2,-189,no shade,#d5b811,68,37,male
+woon4p5mdb,11,2724.7,-125,no shade,#72005e,17,37,male
+woon4p5mdb,12,2474.2,200,no shade,#777777,26,37,male
+woon4p5mdb,13,3062.9,-154,no shade,#0e8a19,50,37,male
+woon4p5mdb,14,9059.8,-143,no shade,#3b8378,21,37,male
+woon4p5mdb,15,2760.2,137,no shade,#b9b9b9,27,37,male
+woon4p5mdb,16,2668.4,-151,no shade,#600b84,7,37,male
+woon4p5mdb,17,2353,-154,no shade,#fba714,70,37,male
+woon4p5mdb,18,3077.2,200,no shade,#3b3b3b,25,37,male
+woon4p5mdb,19,2162.8,-158,no shade,#f7db7c,58,37,male
+woon4p5mdb,20,2773.1,198,no shade,#dddddd,29,37,male
+woon4p5mdb,22,2818.1,-177,a lot of shade,#3b3b3b,25,37,male
+woon4p5mdb,23,3064.4,-152,a lot of shade,#777777,26,37,male
+woon4p5mdb,24,3076.5,162,a lot of shade,#72005e,17,37,male
+woon4p5mdb,25,1389.2,147,a lot of shade,#f7db7c,58,37,male
+woon4p5mdb,26,1947.3,149,a lot of shade,#d5b811,68,37,male
+woon4p5mdb,27,1451.5,141,a lot of shade,#600b84,7,37,male
+woon4p5mdb,28,1443.8,135,a lot of shade,#0e8a19,50,37,male
+woon4p5mdb,29,2627.9,-119,a lot of shade,#dddddd,29,37,male
+woon4p5mdb,30,2334.3,-125,a lot of shade,#b9b9b9,27,37,male
+woon4p5mdb,31,3509.5,118,a lot of shade,#3b8378,21,37,male
+woon4p5mdb,32,2697.5,127,a lot of shade,#d0e942,67,37,male
+woon4p5mdb,33,1897.4,114,a lot of shade,#fba714,70,37,male
+woon4p5mdb,37,3795.3,-180,celery,#ea1d1d,62,37,male
+woon4p5mdb,38,2275.2,-185,celery,#aac510,66,37,male
+woon4p5mdb,39,1803.9,-177,celery,#d0e942,67,37,male
+woon4p5mdb,40,3981.4,139,celery,#96c58c,39,37,male
+woon4p5mdb,41,2237.4,65,celery,#a3c55b,54,37,male
+woon4p5mdb,42,2213.3,105,celery,#184415,37,37,male
+woon4p5mdb,43,2373.7,41,celery,#c8e97d,55,37,male
+woon4p5mdb,44,3248.5,140,celery,#3efe44,63,37,male
+woon4p5mdb,45,2327.4,-160,celery,#b62ef2,3,37,male
+woon4p5mdb,46,2681.4,33,celery,#9af443,65,37,male
+woon4p5mdb,47,2041.1,-165,celery,#90689f,15,37,male
+woon4p5mdb,48,1997.1,84,celery,#0e8a19,50,37,male
+woon4p5mdb,49,2408.1,-156,celery,#83764c,42,37,male
+woon4p5mdb,50,2430.1,-164,celery,#e81a4b,49,37,male
+woon4p5mdb,51,2162.4,-153,celery,#72005e,17,37,male
+woon4p5mdb,52,2835.4,-167,celery,#ffffff,28,37,male
+woon4p5mdb,53,2758.4,155,celery,#73cf10,64,37,male
+woon4p5mdb,54,2854.2,30,celery,#73f5b0,36,37,male
+woon4p5mdb,55,2578.4,-93,celery,#443b14,41,37,male
+woon4p5mdb,56,1696.2,-138,celery,#600b84,7,37,male
+woon4p5mdb,57,2377,21,celery,#4bcf8e,35,37,male
+woon4p5mdb,58,3194.2,64,celery,#608218,53,37,male
+woon4p5mdb,59,2285.5,-43,celery,#baeaaf,40,37,male
+woon4p5mdb,60,2369.4,120,celery,#67cf5c,51,37,male
+y3z9xwwtnu,9,5817.6,-124,no shade,#d0e942,67,34,male
+y3z9xwwtnu,10,10745.5,-37,no shade,#0e8a19,50,34,male
+y3z9xwwtnu,11,2829.6,138,no shade,#f7db7c,58,34,male
+y3z9xwwtnu,12,2692.4,-178,no shade,#3b8378,21,34,male
+y3z9xwwtnu,13,2589.2,184,no shade,#fba714,70,34,male
+y3z9xwwtnu,14,2336.6,-194,no shade,#3b3b3b,25,34,male
+y3z9xwwtnu,15,3986.1,-185,no shade,#777777,26,34,male
+y3z9xwwtnu,16,3857.4,-185,no shade,#600b84,7,34,male
+y3z9xwwtnu,17,2054.3,150,no shade,#d5b811,68,34,male
+y3z9xwwtnu,18,2433.5,-18,no shade,#dddddd,29,34,male
+y3z9xwwtnu,19,7408.6,-178,no shade,#72005e,17,34,male
+y3z9xwwtnu,20,2325.4,-94,no shade,#b9b9b9,27,34,male
+y3z9xwwtnu,22,2631.9,18,a lot of shade,#dddddd,29,34,male
+y3z9xwwtnu,23,1887,57,a lot of shade,#777777,26,34,male
+y3z9xwwtnu,24,4511.8,191,a lot of shade,#3b3b3b,25,34,male
+y3z9xwwtnu,25,2368.1,-178,a lot of shade,#d5b811,68,34,male
+y3z9xwwtnu,26,7726.3,-175,a lot of shade,#fba714,70,34,male
+y3z9xwwtnu,27,2882.1,111,a lot of shade,#b9b9b9,27,34,male
+y3z9xwwtnu,28,3799.8,101,a lot of shade,#72005e,17,34,male
+y3z9xwwtnu,29,2234.2,-141,a lot of shade,#d0e942,67,34,male
+y3z9xwwtnu,30,1787.5,-139,a lot of shade,#f7db7c,58,34,male
+y3z9xwwtnu,31,1871.6,100,a lot of shade,#0e8a19,50,34,male
+y3z9xwwtnu,32,2239.7,127,a lot of shade,#600b84,7,34,male
+y3z9xwwtnu,33,2168.2,109,a lot of shade,#3b8378,21,34,male
+y3z9xwwtnu,37,3124.8,176,celery,#184415,37,34,male
+y3z9xwwtnu,38,2484.3,200,celery,#0e8a19,50,34,male
+y3z9xwwtnu,39,2463.4,-86,celery,#ffffff,28,34,male
+y3z9xwwtnu,40,4336.7,107,celery,#baeaaf,40,34,male
+y3z9xwwtnu,41,4838.5,-182,celery,#ea1d1d,62,34,male
+y3z9xwwtnu,42,7034.2,177,celery,#67cf5c,51,34,male
+y3z9xwwtnu,43,2149.8,-175,celery,#600b84,7,34,male
+y3z9xwwtnu,44,3582.7,85,celery,#aac510,66,34,male
+y3z9xwwtnu,45,2504.8,173,celery,#73f5b0,36,34,male
+y3z9xwwtnu,46,4705.1,-54,celery,#c8e97d,55,34,male
+y3z9xwwtnu,47,1785.8,89,celery,#3efe44,63,34,male
+y3z9xwwtnu,48,1972,-87,celery,#83764c,42,34,male
+y3z9xwwtnu,49,2068.3,81,celery,#a3c55b,54,34,male
+y3z9xwwtnu,50,4496.4,-135,celery,#e81a4b,49,34,male
+y3z9xwwtnu,51,2562.6,36,celery,#d0e942,67,34,male
+y3z9xwwtnu,52,2421.5,92,celery,#9af443,65,34,male
+y3z9xwwtnu,53,8880.3,118,celery,#608218,53,34,male
+y3z9xwwtnu,54,2157.6,-89,celery,#443b14,41,34,male
+y3z9xwwtnu,55,2332.8,-135,celery,#90689f,15,34,male
+y3z9xwwtnu,56,2401.4,110,celery,#73cf10,64,34,male
+y3z9xwwtnu,57,4450.9,128,celery,#4bcf8e,35,34,male
+y3z9xwwtnu,58,2712.6,-159,celery,#72005e,17,34,male
+y3z9xwwtnu,59,2356.7,-165,celery,#b62ef2,3,34,male
+y3z9xwwtnu,60,3655.8,75,celery,#96c58c,39,34,male
+ycm2tcp82a,9,4714.8,-47,a lot of shade,#fba714,70,27,male
+ycm2tcp82a,10,4969.6,-144,a lot of shade,#d0e942,67,27,male
+ycm2tcp82a,11,2979.3,16,a lot of shade,#dddddd,29,27,male
+ycm2tcp82a,12,3793.7,24,a lot of shade,#b9b9b9,27,27,male
+ycm2tcp82a,13,3063,44,a lot of shade,#3b8378,21,27,male
+ycm2tcp82a,14,4213.9,70,a lot of shade,#600b84,7,27,male
+ycm2tcp82a,15,2734.6,200,a lot of shade,#777777,26,27,male
+ycm2tcp82a,16,2944.5,200,a lot of shade,#3b3b3b,25,27,male
+ycm2tcp82a,17,2977.6,95,a lot of shade,#72005e,17,27,male
+ycm2tcp82a,18,4112.4,72,a lot of shade,#0e8a19,50,27,male
+ycm2tcp82a,19,2914.5,-165,a lot of shade,#f7db7c,58,27,male
+ycm2tcp82a,20,3116.3,-142,a lot of shade,#d5b811,68,27,male
+ycm2tcp82a,22,4134.3,-72,no shade,#72005e,17,27,male
+ycm2tcp82a,23,5339.9,200,no shade,#d0e942,67,27,male
+ycm2tcp82a,24,3880.5,-94,no shade,#3b8378,21,27,male
+ycm2tcp82a,25,2650.1,-117,no shade,#777777,26,27,male
+ycm2tcp82a,26,2759,-58,no shade,#b9b9b9,27,27,male
+ycm2tcp82a,27,2628.8,-200,no shade,#3b3b3b,25,27,male
+ycm2tcp82a,28,2496.7,-99,no shade,#600b84,7,27,male
+ycm2tcp82a,29,4569.8,104,no shade,#dddddd,29,27,male
+ycm2tcp82a,30,2580.2,145,no shade,#d5b811,68,27,male
+ycm2tcp82a,31,3261.4,-60,no shade,#0e8a19,50,27,male
+ycm2tcp82a,32,3043.5,-88,no shade,#fba714,70,27,male
+ycm2tcp82a,33,4126.4,143,no shade,#f7db7c,58,27,male
+ycm2tcp82a,37,4085.1,-200,celery,#443b14,41,27,male
+ycm2tcp82a,38,2534.3,-156,celery,#72005e,17,27,male
+ycm2tcp82a,39,4546.5,-46,celery,#184415,37,27,male
+ycm2tcp82a,40,3418,-167,celery,#e81a4b,49,27,male
+ycm2tcp82a,41,2981.6,-33,celery,#ffffff,28,27,male
+ycm2tcp82a,42,3454.6,41,celery,#0e8a19,50,27,male
+ycm2tcp82a,43,4503.9,136,celery,#96c58c,39,27,male
+ycm2tcp82a,44,3316,34,celery,#c8e97d,55,27,male
+ycm2tcp82a,45,3163.5,-110,celery,#600b84,7,27,male
+ycm2tcp82a,46,5515.4,-39,celery,#aac510,66,27,male
+ycm2tcp82a,47,3934.1,-6,celery,#83764c,42,27,male
+ycm2tcp82a,48,2725.3,119,celery,#73cf10,64,27,male
+ycm2tcp82a,49,2915.5,15,celery,#73f5b0,36,27,male
+ycm2tcp82a,50,2707.8,-130,celery,#b62ef2,3,27,male
+ycm2tcp82a,51,3420.3,30,celery,#d0e942,67,27,male
+ycm2tcp82a,52,2347.3,44,celery,#4bcf8e,35,27,male
+ycm2tcp82a,53,2715.5,200,celery,#3efe44,63,27,male
+ycm2tcp82a,54,2946.4,-61,celery,#90689f,15,27,male
+ycm2tcp82a,55,3060.1,140,celery,#9af443,65,27,male
+ycm2tcp82a,56,2270.3,90,celery,#a3c55b,54,27,male
+ycm2tcp82a,57,2808.5,-200,celery,#ea1d1d,62,27,male
+ycm2tcp82a,58,3038.9,-12,celery,#608218,53,27,male
+ycm2tcp82a,59,2690.3,46,celery,#baeaaf,40,27,male
+ycm2tcp82a,60,2798.7,160,celery,#67cf5c,51,27,male
+zddhv2vj8n,9,3239,105,a lot of shade,#3b8378,21,33,Male
+zddhv2vj8n,10,2401,157,a lot of shade,#0e8a19,50,33,Male
+zddhv2vj8n,11,2099,138,a lot of shade,#72005e,17,33,Male
+zddhv2vj8n,12,2525,-166,a lot of shade,#d5b811,68,33,Male
+zddhv2vj8n,13,2031,-137,a lot of shade,#fba714,70,33,Male
+zddhv2vj8n,14,3518,179,a lot of shade,#777777,26,33,Male
+zddhv2vj8n,15,2351,-194,a lot of shade,#dddddd,29,33,Male
+zddhv2vj8n,16,2156,-160,a lot of shade,#f7db7c,58,33,Male
+zddhv2vj8n,17,1695,200,a lot of shade,#3b3b3b,25,33,Male
+zddhv2vj8n,18,4410,174,a lot of shade,#b9b9b9,27,33,Male
+zddhv2vj8n,19,1921,53,a lot of shade,#600b84,7,33,Male
+zddhv2vj8n,20,1857,-98,a lot of shade,#d0e942,67,33,Male
+zddhv2vj8n,22,2993,149,no shade,#fba714,70,33,Male
+zddhv2vj8n,23,1428,-93,no shade,#72005e,17,33,Male
+zddhv2vj8n,24,1738,167,no shade,#dddddd,29,33,Male
+zddhv2vj8n,25,1725,8,no shade,#d0e942,67,33,Male
+zddhv2vj8n,26,1738,98,no shade,#f7db7c,58,33,Male
+zddhv2vj8n,27,1479,-51,no shade,#3b8378,21,33,Male
+zddhv2vj8n,28,2383,-110,no shade,#0e8a19,50,33,Male
+zddhv2vj8n,29,1620,-80,no shade,#600b84,7,33,Male
+zddhv2vj8n,30,5014,-70,no shade,#b9b9b9,27,33,Male
+zddhv2vj8n,31,3524,-200,no shade,#3b3b3b,25,33,Male
+zddhv2vj8n,32,2565,-67,no shade,#777777,26,33,Male
+zddhv2vj8n,33,2648,144,no shade,#d5b811,68,33,Male
+zddhv2vj8n,37,2290,-200,celery,#b62ef2,3,33,Male
+zddhv2vj8n,38,1795,137,celery,#96c58c,39,33,Male
+zddhv2vj8n,39,1952,156,celery,#608218,53,33,Male
+zddhv2vj8n,40,2053,52,celery,#9af443,65,33,Male
+zddhv2vj8n,41,2064,23,celery,#73f5b0,36,33,Male
+zddhv2vj8n,42,1644,-200,celery,#83764c,42,33,Male
+zddhv2vj8n,43,2080,48,celery,#baeaaf,40,33,Male
+zddhv2vj8n,44,1737,144,celery,#67cf5c,51,33,Male
+zddhv2vj8n,45,2457,113,celery,#184415,37,33,Male
+zddhv2vj8n,46,1580,-200,celery,#72005e,17,33,Male
+zddhv2vj8n,47,1471,35,celery,#aac510,66,33,Male
+zddhv2vj8n,48,2571,128,celery,#0e8a19,50,33,Male
+zddhv2vj8n,49,2555,-200,celery,#ffffff,28,33,Male
+zddhv2vj8n,50,1862,20,celery,#d0e942,67,33,Male
+zddhv2vj8n,51,2511,-200,celery,#e81a4b,49,33,Male
+zddhv2vj8n,52,3068,-200,celery,#600b84,7,33,Male
+zddhv2vj8n,53,2089,-200,celery,#ea1d1d,62,33,Male
+zddhv2vj8n,54,2307,23,celery,#c8e97d,55,33,Male
+zddhv2vj8n,55,2069,108,celery,#3efe44,63,33,Male
+zddhv2vj8n,56,2167,67,celery,#a3c55b,54,33,Male
+zddhv2vj8n,57,2124,-200,celery,#443b14,41,33,Male
+zddhv2vj8n,58,5264,-200,celery,#90689f,15,33,Male
+zddhv2vj8n,59,2168,120,celery,#73cf10,64,33,Male
+zddhv2vj8n,60,1833,137,celery,#4bcf8e,35,33,Male
