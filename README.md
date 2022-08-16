@@ -37,7 +37,7 @@ Subfolder-meanAssoc:
 
 
 
-COLORMAP INTERPRETATIONS:
+COLORMAP INTERPRETATIONS:  
 `exp1maps.csv`, `exp2maps.csv`, `exp3maps.csv`: store the data from colormaps interpretations task for each experiment
 
 `exp3maps-testingSet1.csv`, `exp3maps-trainingSet1.csv`: store the data from colormaps interpretations task for Exp. 3, separated by training vs. testing data 
