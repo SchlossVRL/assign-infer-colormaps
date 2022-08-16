@@ -19,10 +19,11 @@ to inferred mappings. These results can be used to optimize visualization design
 ---
 
 Across files:
- 
- `colorID` codes for the unique color from the UW 71 color
+
+ `colorID` codes for the unique color from the UW 71 set of colors
 
  `xPair` codes for the unique color-pair (2 colors from the UW 71 colors) used to create a color scale and corresponding colormaps
+
 
 
 ## FOLDER: dataSets
