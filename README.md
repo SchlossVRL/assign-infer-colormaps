@@ -30,8 +30,7 @@ ASSOCIATION RATINGS:
 `meanDarknessRatings.csv`: store the data from darkness ratings task for the color pairs from Exp. 3
 
 
-Subfolder-meanAssoc:
-
+Subfolder-meanAssoc:  
 `sunMeanAssoc.csv`, `shadeMeanAssoc.csv`, `iceMeanAssoc.csv`, `fireMeanAssoc.csv`, `waterMeanAssoc.csv`: store the mean data from the association ratings task (averaged over participants)
 
 `noSunAssoc.csv`, `noShadeAssoc.csv`, `noFireAssoc.csv`, `noWaterAssoc.csv`, `noIceAssoc.csv`, `lotSunAssoc.csv`, `lotShadeAssoc.csv`, `lotFireAssoc.csv`, `lotWaterAssoc.csv`, `lotIceAssoc.csv`: store the mean data from the endpoint association ratings task for each domain concept (averaged over participants)
@@ -40,7 +39,6 @@ Subfolder-meanAssoc:
 
 
 COLORMAP INTERPRETATIONS:
-
 `exp1maps.csv`, `exp2maps.csv`, `exp3maps.csv`: store the data from colormaps interpretations task for each experiment
 
 `exp3maps-testingSet1.csv`, `exp3maps-trainingSet1.csv`: store the data from colormaps interpretations task for Exp. 3, separated by training vs. testing data 
