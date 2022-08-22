@@ -25,13 +25,15 @@ library(car)
 library(aod)
 
 
-#Load UW-71 color coordinates
+
+#Load UW-71 color coordinates - housed in assign-infer-colormaps\stimuli\ folder
 color_index <- read_csv("UW71coordinates.csv")
 
 
 # EXPERIMENT 1 & 2 - ASSOCIATION RATINGS --------------------------------
 
-exp1 = read.csv("exp1-assoc2.csv")
+#load in exp1-exp2 association ratings - assign-infer-colormaps\dataSets\associationRatings folder
+exp1 = read.csv("exp1exp2-assoc2.csv")
 
 #add symbol to rgb to be read correctly in plots
 exp1$color_rgb <- sub("^", "#", exp1$color_rgb)
@@ -62,7 +64,6 @@ colorHex <-  dplyr::pull(SunshineAssoc,color_hex)
 
 #Correlation between lightness and association ratings
 corr.test(SunshineAssoc$mean_response, SunshineAssoc$L)
-#r = .71, p<.001
 
 
 #Create plot 
@@ -103,7 +104,7 @@ colorHex <-  dplyr::pull(shadeAssoc,color_hex)
 
 #Correlation between lightness and association ratings
 corr.test(shadeAssoc$mean_response, shadeAssoc$L)
-#-.79, p <.001
+
 
 #create plot
 plotShade = ggplot(data = shadeAssoc) +
@@ -129,7 +130,8 @@ plotShade
 
 # exp1 & 2: SUNSHINE ENDPOINTS  ------------------------------------------------
 
-exp1sunEnds = read.csv("exp1-sunEndpointsAssoc.csv")
+#load in exp1-exp2 association ratings - assign-infer-colormaps\dataSets\associationRatings folder
+exp1sunEnds = read.csv("exp1exp2-sunEndpointsAssoc.csv")
 
 
 ##  a lot of sunshine  ------------------------------------------------------------------
@@ -200,18 +202,21 @@ plotnoSun = ggplot(data = noSunAssoc) +
   theme(legend.position = "none") 
 plotnoSun
 
+
 #Create file with mean association ratings (averaged over participants)
-write.csv(noSun_mean_assoc, "noSunMeanAssoc.csv")
+#write.csv(noSun_mean_assoc, "noSunMeanAssoc.csv")
 
 
 
 # correlation between sunshine endpoint associations ----------------------------------------
+
 
 corr.test(lotSun_mean_assoc$mean_response, noSun_mean_assoc$mean_response)
 
 
 # exp1: SHADE ENDPOINTS ------------------------------------------------
 
+#load in exp1shadeEnds association ratings - assign-infer-colormaps\dataSets\associationRatings folder
 exp1shadeEnds = read.csv("exp1-shadeEndpointsAssoc.csv")
 
 
@@ -221,7 +226,7 @@ exp1shadeEnds = read.csv("exp1-shadeEndpointsAssoc.csv")
 #table with all relevant data
 lotShade<- exp1shadeEnds %>% filter(prompt == "a lot of shade") %>% 
   mutate(newresponse = (response+200)/400) %>%
-  select(rt, condition, response, prompt, color_rgb, color_index, newresponse)
+  select(rt,  response, prompt, color_rgb, color_index, newresponse)
 
 #lotShade mean assoc
 lotShade_mean_assoc <- lotShade %>% group_by(color_index) %>%
@@ -258,7 +263,7 @@ plotlotShade
 #table with all relevant data
 noShade<- exp1shadeEnds %>% filter(prompt == "no shade") %>% 
   mutate(newresponse = (response+200)/400) %>%
-  select(rt, condition, response, prompt, color_rgb, color_index, newresponse)
+  select(rt,  response, prompt, color_rgb, color_index, newresponse)
 
 #lotShade mean assoc
 noShade_mean_assoc <- noShade %>% group_by(color_index) %>%
@@ -296,6 +301,7 @@ corr.test(lotShade_mean_assoc$mean_response, noShade_mean_assoc$mean_response)
 
 # EXPERIMENT 3 - ASSOCIATION RATINGS --------------------------------------
 
+#load in exp3 association ratings - assign-infer-colormaps\dataSets\associationRatings folder
 exp3 = read.csv("exp3-assoc2.csv")
 
 
@@ -483,6 +489,7 @@ plotsoil
 
 # EXPERIMENT 3: ENDPOINT ASSOCIATION RATINGS ------------------------------
 
+#load in exp3ends association ratings - assign-infer-colormaps\dataSets\associationRatings folder
 exp3Ends = read.csv("exp3-EndpointsAssoc.csv")
 
 

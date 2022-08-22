@@ -29,16 +29,15 @@ library(ggpubr)
 # SUPPLEMENTAL: MONOTONICITY CHECK ----------------------------------------
 
 #use the regressionLCH-xpairs.csv file plus the files
-# allWaterPairs.csv and waterMeanAssoc.csv in the regression check
+# allIcePairs.csv and iceMeanAssoc.csv in the regression check
 
-#read in UW 71 coordiantes
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/associationRatings")
+
+#Load UW-71 color coordinates - housed in assign-infer-colormaps\stimuli\ folder
 d71 <- read_csv("UW71coordinates.csv")
 d71 = d71 %>%arrange(color_index)
 
 
-#read in the interpolated color pair coordinates
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/supplementalMaterial/monotonicityRegression")
+#read in the interpolated color pair coordinates in assign-infer-colormaps\supplementalMaterial\monotonicityRegression
 dxPairs = read_csv("RegressionLCH-xPairs.csv")#in this csv file, xPairs corresponds to the unique color pair. colorSeqNum == 1 is the light color of the pair, == 10 is the dark color of the pair. 2-9 are the interpolated color items
 dxPairs = tibble::rowid_to_column(dxPairs, "rowNum")
 
@@ -47,7 +46,7 @@ dxPairs = tibble::rowid_to_column(dxPairs, "rowNum")
 dxPairs$Hrad = dxPairs$H * ((pi)/180)
 
 
-#load concept data - uncomment desired concept file
+#load concept data - uncomment desired concept file - assign-infer-colormaps\supplementalMaterial\monotonicityRegression
 dPairs = read_csv("allIcePairs.csv")
 #dPairs = read_csv("allFirePairs.csv")
 #dPairs = read_csv("allWaterPairs.csv")
@@ -59,8 +58,7 @@ dPairs = read_csv("allIcePairs.csv")
 dPairs = dPairs %>%arrange(xPair)
 
 
-#Load in the mean association ratings - uncomment desired concept file
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/associationRatings/meanAssoc")
+#Load in the mean association ratings - uncomment desired concept file-  assign-infer-colormaps\dataSets\associationRatings\meanAssoc
 ConceptAssoc = read_csv("iceMeanAssoc.csv")
 #ConceptAssoc = read_csv("fireMeanAssoc.csv")
 #ConceptAssoc = read_csv("waterMeanAssoc.csv")
@@ -199,10 +197,9 @@ dfullConcept8diff = dfullConcept8[dfullConcept8$diffLighting > 25, ]
 
 # Supp: Merit for the dark-is-more bias -----------------------------------
 
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/supplementalMaterial")
 
-#Read in raw darkness ratings data
-d3 = read.csv("exp3-darknessRatings.csv" )
+#Read in raw darkness ratings data -  assign-infer-colormaps\supplementalMaterial
+d3 = read.csv("exp3maps-darknessRatings.csv" )
 
 
 #get average for each participants
@@ -236,7 +233,8 @@ d7= d6[d6$xPair != "darknessCheck1" & d6$xPair != "darknessCheck2" & d6$xPair !=
 
 # Supp: Exp1 - Colormap interpretations -----------------------------------
 
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/colormapInterpretations")
+
+#Load in exp1maps - housed in assign-infer-colormaps\datasets\colormapInterpretations folder
 dexp1maps =  read.csv("exp1maps.csv")
 
 
@@ -261,18 +259,20 @@ summary(mHsun)
 
 # Supp: Exp3 - Colormap interpretations ------------------------------------
 
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/colormapInterpretations")
 
-#load mean darkness ratings
+#load mean darkness ratings - -  assign-infer-colormaps\dataSets\supplementaMaterial folder
 dDarkness = read.csv("exp3maps-darknessRatings-ave.csv" )
 
-#load weight paris for training
+#load weight pairs for training -  assign-infer-colormaps\dataSets\colormapInterpretations folder
 dWeightTrain = read.csv("weightPairsTraining.csv")
 
-#load weight paris for testing
+#load weight pairs for testing -  assign-infer-colormaps\dataSets\colormapInterpretations folder
 dWeightTest = read.csv("weightPairsTesting.csv")
 
-#load full colormap interpretations dataset
+
+
+
+#load full exp3 set-  assign-infer-colormaps\dataSets\colormapInterpretations folder
 dexp3maps = read.csv("exp3maps-fullSet.csv")
 dexp3maps = merge(dDarkness, dexp3maps, by =c("xPair", "concept", "lightrgb", "darkrgb"))
 

@@ -30,8 +30,8 @@ library(aod)
 
 # EXPERIMENT 1 - COLORMAPS INTERPRETATIONS --------------------------------
 
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/colormapInterpretations")
 
+#load in exp1 maps - assign-infer-colormaps\dataSets\colormapInterpretations folder
 dexp1maps = read.csv("exp1maps.csv")
 
 
@@ -87,7 +87,7 @@ plotExp1maps
 
 # EXPERIMENT 2 - COLORMAPS INTERPRETATIONS --------------------------------
 
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/colormapInterpretations")
+#load in exp1 maps - assign-infer-colormaps\dataSets\colormapInterpretations folder
 dexp2maps = read.csv("exp2maps.csv")
 #Note: To obtain the combined semantic distance, use the matlab file: assign-infer-semanticDistance-main
 
@@ -160,23 +160,23 @@ plotExp2mapsSemDist
 
 # EXPERIMENT 3 - COLORMAPS INTERPRETATIONS --------------------------------
 
-setwd("C:/Users/melan/Dropbox/Research/Manuscripts/Submitted/SunshineMaps-manuscript/VIS/finalAnalysesCode/dataSets/colormapInterpretations")
 
-#load mean darkness ratings
+#load mean darkness ratings - -  assign-infer-colormaps\dataSets\supplementaMaterial folder
 dDarkness = read.csv("exp3maps-darknessRatings-ave.csv" )
 
-#load weight pairs for training
+#load weight pairs for training -  assign-infer-colormaps\dataSets\colormapInterpretations folder
 dWeightTrain = read.csv("weightPairsTraining.csv")
 
-#load weight pairs for testing
+#load weight pairs for testing -  assign-infer-colormaps\dataSets\colormapInterpretations folder
 dWeightTest = read.csv("weightPairsTesting.csv")
 
 
 
 # exp3: TRAINING SET ------------------------------------------------------
 
-#Full training set - individual trials
+#full training set -  assign-infer-colormaps\dataSets\colormapInterpretations folder
 exp3training = read.csv("exp3maps-trainingSet.csv")
+
 
 keep = c("subjectID", "concept", "xPair", "sidePress", "seDark", "seLeft", "meanAssocDiff", "assocOuter1", "assocOuter2", "assocInner1", "assocInner2","meanPropLeft","meanPropDark", "darkSideC3","lightrgb", "darkrgb", "semDistAssocSSNorm", "darknessSSNorm",  "assignSemDistAssocSSNorm")
 exp3training = exp3training[keep]
@@ -188,7 +188,7 @@ dEachBanner = dEachXPair[dEachXPair$xPair == 262 | dEachXPair$xPair == 1019,]
 
 
 
-#Training set averaged over participants, with combined semantic distance for each weight pair
+#Training set averaged over participants, with combined semantic distance for each weight pair - assign-infer-colormaps\dataSets\colormapInterpretations folder
 #Note: To obtain the combined semantic distance, use the matlab file: assign-infer-semanticDistance-main
 exp3trainingAve = read.csv("exp3maps-trainingSet-ave.csv")
 
@@ -235,7 +235,7 @@ plotTrainingMSE
 
 # exp3: TESTING SET -------------------------------------------------------
 
-#load in testing set
+#testing set -  assign-infer-colormaps\dataSets\colormapInterpretations folder
 exp3testing = read.csv("exp3maps-testingSet.csv")
 
 keep = c("subjectID", "concept", "xPair", "sidePress", "seDark", "seLeft", "meanAssocDiff", "assocOuter1", "assocOuter2", "assocInner1", "assocInner2","meanPropLeft","meanPropDark", "darkSideC3","lightrgb", "darkrgb", "semDistAssocSSNorm",  "darknessSSNorm", "assignSemDistAssocSSNorm")
@@ -248,7 +248,7 @@ dEachBanner = dEachXPair[dEachXPair$xPair == 262 | dEachXPair$xPair == 1019,]
 
 
 
-#Testing set averaged over participants, with combined semantic distance for each weight pair
+#Testing set averaged over participants, with combined semantic distance for each weight pair-  assign-infer-colormaps\dataSets\colormapInterpretations folder
 #Note: To obtain the combined semantic distance, use the matlab file: assign-infer-semanticDistance-main
 exp3testingAve = read.csv("exp3maps-testingSet-ave.csv")
 
