@@ -11,7 +11,7 @@ Subfolders for each experiment contain the colormaps showed in that experiment (
 
 
 ---
-### Stimuli iamges are named using the following convention
+### Stimuli images are named using the following convention
 
 Exp1 & Exp2: diffLighting (L#), ID (ID_#), which side is dark (left/right), and which of the 5 unique maps (0-5)
 Exp3: concept, color pair (0-63), which side is dark (left/right), and which of the 5 unique maps (0-5)
