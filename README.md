@@ -27,19 +27,22 @@ Across files:
 
 
 ## FOLDER: dataSets
-### Data files 
+### Association ratings
+ 
+ Data files
 
-ASSOCIATION RATINGS:  
-`exp1assoc.csv`, `exp2assoc.csv`, `exp3assoc.csv`: store the individual trial data from the associations ratings tasks
+`exp1exp2assoc2.csv`, `exp3assoc2.csv`: store the individual trial data from the associations ratings tasks
 
-`exp1-shadeEndpointsAssoc.csv`,`exp1-sunEndpointsAssoc.csv`: store the individual trial data from the endpoint associations ratings tasks
-
-`meanDarknessRatings.csv`: store the data from darkness ratings task for the color pairs from Exp. 3
+`exp1-shadeEndpointsAssoc.csv`,`exp1exp2-sunEndpointsAssoc.csv`,`exp3-EndpointsAssoc.csv`: store the individual trial data from the endpoint associations ratings tasks
 
 
+Analysis and plotting file
+
+`assign-infer-analyses-associationRatings.R`: R script for analyses and plotting data from all 3 experiments association ratings tasks. Takes files above as inputs.
 
 
 Subfolder-meanAssoc:  
+
 `sunMeanAssoc.csv`, `shadeMeanAssoc.csv`, `iceMeanAssoc.csv`, `fireMeanAssoc.csv`, `waterMeanAssoc.csv`: store the mean data from the association ratings task (averaged over participants)
 
 `noSunAssoc.csv`, `noShadeAssoc.csv`, `noFireAssoc.csv`, `noWaterAssoc.csv`, `noIceAssoc.csv`, `lotSunAssoc.csv`, `lotShadeAssoc.csv`, `lotFireAssoc.csv`, `lotWaterAssoc.csv`, `lotIceAssoc.csv`: store the mean data from the endpoint association ratings task for each domain concept (averaged over participants)
@@ -47,31 +50,60 @@ Subfolder-meanAssoc:
 
 
 
-COLORMAP INTERPRETATIONS:  
-`exp1maps.csv`, `exp2maps.csv`, `exp3maps.csv`: store the data from colormaps interpretations task for each experiment
+### Colormap interpretations:  
 
-`exp3maps-testingSet1.csv`, `exp3maps-trainingSet1.csv`: store the data from colormaps interpretations task for Exp. 3, separated by training vs. testing data 
+Data files
 
+`exp1maps.csv`, `exp2maps.csv`, `exp3maps-fullSet.csv`: store the data from colormaps interpretations task for each experiment
+
+`exp3maps-testingSet.csv`, `exp3maps-trainingSet.csv`: store the data from colormaps interpretations task for Exp. 3, separated by training vs. testing data 
+
+`exp3maps-testingSet-ave.csv`, `exp3maps-trainingSet-ave.csv`: store the data from colormaps interpretations task for Exp. 3, separated by training vs. testing data, averaged over participants 
 
 `weightPairsTesting.csv`, `weightPairsTraining.csv`: store the weight pairing combinations used in Exp. 3. 
 
 
 
-### Analyses and plotting scripts
-
-
-`assign-infer-analyses-associationRatings.R`: R script for analyses and plotting data from all 3 experiments association ratings tasks. Takes files above as inputs.
+Analysis and plotting files
 
 `assign-infer-analyses-colormapInterpretations.R`: R script for analyses and plotting data from all 3 experiments colormaps interpretations tasks. Takes files above as inputs.
 
+`assign_infer_semanticDistance_main.m`: MATLAB script for getting semantic distance values, uses `get_semantic_distance.m` function file
+
+
+
+### Supplemental Material
+
+Data files
+
+`exp3maps-darknessRatings.csv`: store the data from darkness ratings task for the color pairs from Exp. 3
+
+`exp3maps-darknessRatings-ave.csv`: store the data from darkness ratings task for the color pairs from Exp.3, averaged over participants
+
+
+
+Analysis and plotting file
 
 `assign-infer-analyses-supplemental.R`: R script for analyses and plotting data discussed in the Supplemental materials. Takes files above as inputs.
 
 
+
+Subfolder-monotonicityRegression:
+
+  `allFirePairs`, `allFoliagePairs`, `allIcePairs`, `allShadePairs`, `allSoilPairs`, `allSunshinePairs`, `allWaterPairs`: stores association data for each possible color pair using the UW 71
+
+  `RegressionLCH-xPairs`: contains the CIELCh color coordinates for each possible color scale generated from each color pair using the UW 71
+
+
+
+
+
 ## FOLDER: stimuli
+
 Subfolders for each experiment contain the colormaps showed in that experiment (10 colormaps per color scale; 5 dark on left/ 5 dark on right)
 
 `exp1colorCoordinates.csv`, `exp2colorCoordinates.csv`, `exp3colorCoordinates.csv`: stores the color coordinates for each color pair from each experiment
 
 `UW71coordinates.csv`: stores the color coordinates for the UW-71
 
+`celeryColorCoordinates.csv`: stores the color coordinates for the attention check used during the association ratings task
