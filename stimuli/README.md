@@ -11,13 +11,17 @@ Subfolders for each experiment contain the colormaps showed in that experiment (
 
 
 ---
+### Stimuli iamges are named using the following convention
+
+Exp1 & Exp2: diffLighting (L#), ID (ID_#), which side is dark (left/right), and which of the 5 unique maps (0-5)
+Exp3: concept, color pair (0-63), which side is dark (left/right), and which of the 5 unique maps (0-5)
 
 
 ### Columns of the UW71coordinates.csv file and celeryColorCoordinates:
 
- `color_index` codes for the unique color from the UW 71 set of colors - used across data files
+ `color_index` codes for the unique color from the UW 71 set of colors - used across data files (range 0-70)
 
- `v_index` secondary codes for the unique color from the UW 71 set of colors
+ `v_index` secondary codes for the unique color from the UW 71 set of colors (characters: V1-V71)
 
  `color_hex` hex code for the color
 
@@ -46,11 +50,11 @@ Subfolders for each experiment contain the colormaps showed in that experiment (
 Celery also includes `prompt` and `rating`, which code the concept and the mean association rating (from previous data) between celery and the given color
 
 
-### Columns of each of expColorCoordinates.csv files:
+### Columns of each expColorCoordinates.csv file:
 
- `xPair` codes for the unique color-pair (2 colors from the UW 71 colors) used to create a color scale and corresponding colormaps
+ `xPair` codes for the unique color-pair (2 colors from the UW 71 colors) used to create a color scale and corresponding colormaps (range: 0-1848)
 
- `ID`  codes for the unique color-pair for that experiment alone
+ `ID`  codes for the unique color-pair for that experiment alone 
 
 `diffLighting` difference in L* between two colors
 
@@ -90,13 +94,13 @@ Celery also includes `prompt` and `rating`, which code the concept and the mean 
 ### exp3colorCoordinates.csv also includes the following columns: 
 `concept` which concept presented
 
-`colorPair` code for the unique color-pair for that experiment alone
+`colorPair` code for the unique color-pair for that experiment alone (range 0-63)
 
 `expID` code for the unique color-pair for that experiment alone 
 
 `plotID` code for unique color-pair used for plotting
 
-`rsquare` Rsquare value identified during the monotonicity check
+`rsquare` Rsquare value identified during the monotonicity check (range: 0-1)
 
 `diffRating`, `darkAssoc`, and `lightAssoc` code for the corresponding values as described above for sun/shade
 
